@@ -1,8 +1,8 @@
 # Notebooks Now! Submission Template
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Notebooks-Now/submission-myst-lite/HEAD?labpath=article.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Notebooks-Now/submission-quarto-lite/HEAD?labpath=article.ipynb)
 
-This submission template is for a simple notebook-based publication with one source file, supporting data, bibliography, and MyST build configuration.
+This submission template is for a simple notebook-based publication with one source file, supporting data, bibliography, and Quarto build configuration.
 
 ## Source file
 
@@ -20,22 +20,18 @@ Similar to the `data/` directory, images for figures should be specified in `ima
 
 ### Bibliography
 
-Bibliography entries may be specified two ways, both described in the [MyST docs](https://myst-tools.org/docs/mystjs/citations). They may be listed explicitly in bibtex format, by convention in the file `references.bib`, and referenced by key using a `cite` MyST role. They may also be specified as inline DOI links. These do not require full bibliographic information; the data is fetched implicitly on build from the DOI.
+Bibliography entries may be specific in the document as described in the [Quarto documentation](https://quarto.org/docs/authoring/footnotes-and-citations.html#bibliography-files). 
 
-## MyST configuration
+## Quarto configuration
 
-A `myst.yml` file must be provided to configure notebook metadata and exports. This includes authors, affiliations, licenses, keywords, and [much more](https://myst-tools.org/docs/mystjs/frontmatter).
+Configuration for the example is provided by a YAML block that appears as the first cell of the Notebook. 
 
 ## Building output artfiacts
 
-To build PDF/JATS output from your source data, you must have the MyST CLI installed
+To build PDF/JATS output from your source data, you must have the Quarto CLI installed - you can download or learn about installation at <https://quarto.org/docs/download/>
+
+Then render the article using
 
 ```
-npm install myst-cli
-```
-
-Then build all exports defined in the `myst.yml` file:
-
-```
-myst build --all
+quarto render article.ipynb
 ```
