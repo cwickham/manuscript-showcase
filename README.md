@@ -6,7 +6,9 @@ This submission template is for a simple notebook-based publication with one sou
 
 ## Source file
 
-The source file for this template is a Jupyter notebook. There is not necessarily anything special about this notebook. It may contain markdown cells, code cells, and outputs from common Python packages, including pandas, matplotlib, plotly, seaborn, and altair. Specific markdown cells may be tagged in their metadata as `"part": "abstract"`, or `"part": "availability"` - these cells will be extracted from the document and included as the specified part in the built output.
+The source file for this template is a Jupyter notebook. There is not necessarily anything special about this notebook. It may contain markdown cells, code cells, and outputs from common Python packages, including pandas, matplotlib, plotly, seaborn, and altair. 
+
+The notebook has an additional markdown cell at the top of the document which configures Quarto to render the notebook.
 
 ## Supporting material
 
