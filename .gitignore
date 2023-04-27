@@ -8,3 +8,5 @@ files/
 /.luarc.json
 
 /.quarto/
+/agujournal2019.cls
+/trackchanges.sty
