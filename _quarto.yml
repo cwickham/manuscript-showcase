@@ -1,10 +1,9 @@
 project:
   type: manuscript
-  render: 
-    - article.ipynb
-
+  
 manuscript:
-  meca: true
+  meca-archive: true
+  article: article.qmd
 
 format:
   html:
