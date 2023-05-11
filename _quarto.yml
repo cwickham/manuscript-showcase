@@ -2,7 +2,7 @@ project:
   type: manuscript
 
 execute:
-  freeze: auto
+  freeze: true
   
 format:
   html:
