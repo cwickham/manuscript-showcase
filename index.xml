@@ -1,70 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving
 and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+
 <article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
-  <front>
-    <journal-meta>
-      <journal-id/>
-      <journal-title-group>
-        <journal-title>Notebooks Now!</journal-title>
-      </journal-title-group>
-      <issn/>
-      <publisher>
-        <publisher-name/>
-      </publisher>
-    </journal-meta>
-    <article-meta>
-      <title-group>
-        <article-title>La Palma Earthquakes</article-title>
-      </title-group>
-      <contrib-group>
-        <contrib contrib-type="author" corresp="yes">
-          <contrib-id contrib-id-type="orcid">0000-0002-0760-5497</contrib-id>
-          <name>
-            <surname>Purves</surname>
-            <given-names>Steve</given-names>
-          </name>
-          <string-name>Steve Purves</string-name>
-          <email>steve@curvenote.com</email>
-          <role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
-          <role vocab="https://credit.niso.org" vocab-term="project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project
+
+<front>
+<journal-meta>
+<journal-id></journal-id>
+
+<journal-title-group>
+<journal-title>Notebooks Now!</journal-title>
+</journal-title-group>
+<issn></issn>
+
+<publisher>
+<publisher-name></publisher-name>
+</publisher>
+</journal-meta>
+
+
+<article-meta>
+
+
+<title-group>
+<article-title>La Palma Earthquakes</article-title>
+</title-group>
+
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0002-0760-5497</contrib-id>
+<name>
+<surname>Purves</surname>
+<given-names>Steve</given-names>
+</name>
+<string-name>Steve Purves</string-name>
+<email>steve@curvenote.com</email>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="project
+administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project
 administration</role>
-          <role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
-          <role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
-          <xref ref-type="aff" rid="aff-1">a</xref>
-          <xref ref-type="corresp" rid="cor-1">*</xref>
-        </contrib>
-        <contrib contrib-type="author">
-          <contrib-id contrib-id-type="orcid">0000-0002-7859-8394</contrib-id>
-          <name>
-            <surname>Cockett</surname>
-            <given-names>Rowan</given-names>
-          </name>
-          <string-name>Rowan Cockett</string-name>
-          <xref ref-type="aff" rid="aff-1">a</xref>
-        </contrib>
-      </contrib-group>
-      <aff id="aff-1">
-        <institution-wrap>
-          <institution>Curvenote</institution>
-        </institution-wrap>
-      </aff>
-      <author-notes>
-        <corresp id="cor-1">steve@curvenote.com</corresp>
-      </author-notes>
-      <pub-date date-type="pub" publication-format="electronic" iso-8601-date="2022-05-11">
-        <year>2022</year>
-        <month>5</month>
-        <day>11</day>
-      </pub-date>
-      <history/>
-      <permissions>
-        <license license-type="creative-commons">
-          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/">https://creativecommons.org/licenses/by-sa/4.0/</ali:license_ref>
-        </license>
-      </permissions>
-      <abstract>
-        <p>In September 2021, a significant jump in seismic activity on the
+<role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
+<role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-7859-8394</contrib-id>
+<name>
+<surname>Cockett</surname>
+<given-names>Rowan</given-names>
+</name>
+<string-name>Rowan Cockett</string-name>
+<xref ref-type="aff" rid="aff-1">a</xref>
+</contrib>
+</contrib-group>
+<aff id="aff-1">
+<institution-wrap>
+<institution>Curvenote</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-1">steve@curvenote.com</corresp>
+</author-notes>
+
+<pub-date date-type="pub" publication-format="electronic" iso-8601-date="2022-05-11">
+<year>2022</year>
+<month>5</month>
+<day>11</day>
+</pub-date>
+
+
+
+
+
+
+
+<history></history>
+
+<permissions>
+
+<license license-type="creative-commons">
+<ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/">https://creativecommons.org/licenses/by-sa/4.0/</ali:license_ref>
+
+</license>
+</permissions>
+
+<abstract>
+<p>In September 2021, a significant jump in seismic activity on the
 island of La Palma (Canary Islands, Spain) signaled the start of a
 volcanic crisis that still continues at the time of writing. Earthquake
 data is continually collected and published by the Instituto Geográphico
@@ -72,217 +101,152 @@ Nacional (IGN). We have created an accessible dataset from this and
 completed preliminary data analysis which shows seismicity originating
 at two distinct depths, consistent with the model of a two reservoir
 system feeding the currently very active volcano.</p>
-      </abstract>
-      <kwd-group kwd-group-type="author">
-        <kwd>La Palma</kwd>
-        <kwd>Earthquakes</kwd>
-      </kwd-group>
-    </article-meta>
-  </front>
-  <body>
-    <sec id="introduction">
-      <title>Introduction</title>
-      <p>La Palma is one of the west most islands in the Volcanic
+</abstract>
+<kwd-group kwd-group-type="author">
+<kwd>La Palma</kwd>
+<kwd>Earthquakes</kwd>
+</kwd-group>
+
+
+
+
+</article-meta>
+
+</front>
+
+<body>
+<sec id="introduction">
+  <title>Introduction</title>
+  <p>La Palma is one of the west most islands in the Volcanic
   Archipelago of the Canary Islands, a Spanish territory situated is the
   Atlantic Ocean where at their closest point are 100km from the African
   coast <xref alt="Figure 1" rid="fig-map">Figure 1</xref>. The island
   is one of the youngest, remains active and is still in the island
   forming stage.</p>
-      <fig id="fig-map">
-        <caption>
-          <p>Figure 1: Map of La Palma in the Canary Islands. Image
+  <fig id="fig-map">
+    <caption><p>Figure 1: Map of La Palma in the Canary Islands. Image
     credit
-    <ext-link ext-link-type="uri" xlink:href="https://commons.wikimedia.org/w/index.php?curid=76638603">NordNordWest</ext-link></p>
-        </caption>
-        <graphic mimetype="image" mime-subtype="png" xlink:href="images/la-palma-map.png"/>
-      </fig>
-      <p>La Palma has been constructed by various phases of volcanism, the
+    <ext-link ext-link-type="uri" xlink:href="https://commons.wikimedia.org/w/index.php?curid=76638603">NordNordWest</ext-link></p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="images/la-palma-map.png" />
+  </fig>
+  <p>La Palma has been constructed by various phases of volcanism, the
   most recent and currently active being the <italic>Cumbre
   Vieja</italic> volcano, a north-south volcanic ridge that constitutes
   the southern half of the island.</p>
-      <sec id="eruption-history">
-        <title>Eruption History</title>
-        <p>A number of eruptions were recorded since the colonization of the
+  <sec id="eruption-history">
+    <title>Eruption History</title>
+    <p>A number of eruptions were recorded since the colonization of the
     islands by Europeans in the late 1400s, these are summarised in
     <xref alt="Table 1" rid="tbl-history">Table 1</xref>.</p>
-        <table-wrap>
-          <caption>
-            <p>Table 1: Recent historic eruptions on La Palma</p>
-          </caption>
-          <table id="tbl-history">
-            <thead>
-              <tr>
-                <th align="left">name</th>
-                <th align="right">year</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td align="left">Current</td>
-                <td align="right">2021</td>
-              </tr>
-              <tr>
-                <td align="left">Teneguía</td>
-                <td align="right">1971</td>
-              </tr>
-              <tr>
-                <td align="left">Nambroque</td>
-                <td align="right">1949</td>
-              </tr>
-              <tr>
-                <td align="left">El Charco</td>
-                <td align="right">1712</td>
-              </tr>
-              <tr>
-                <td align="left">Volcán San Antonio</td>
-                <td align="right">1677</td>
-              </tr>
-              <tr>
-                <td align="left">Volcán San Martin</td>
-                <td align="right">1646</td>
-              </tr>
-              <tr>
-                <td align="left">Tajuya near El Paso</td>
-                <td align="right">1585</td>
-              </tr>
-              <tr>
-                <td align="left">Montaña Quemada</td>
-                <td align="right">1492</td>
-              </tr>
-            </tbody>
-          </table>
-        </table-wrap>
-        <fig id="fig-timeline">
-          <caption>
-            <p>Figure 2: Timeline of recent earthquakes on La
-      Palma</p>
-          </caption>
-          <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/fig-timeline-1.png"/>
-        </fig>
-        <p>This equates to an eruption on average every -80 years up until
+    <table-wrap>
+      <caption>
+        <p>Table 1: Recent historic eruptions on La Palma</p>
+      </caption>
+      <table id="tbl-history">
+        <thead>
+          <tr>
+            <th align="left">name</th>
+            <th align="right">year</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left">Current</td>
+            <td align="right">2021</td>
+          </tr>
+          <tr>
+            <td align="left">Teneguía</td>
+            <td align="right">1971</td>
+          </tr>
+          <tr>
+            <td align="left">Nambroque</td>
+            <td align="right">1949</td>
+          </tr>
+          <tr>
+            <td align="left">El Charco</td>
+            <td align="right">1712</td>
+          </tr>
+          <tr>
+            <td align="left">Volcán San Antonio</td>
+            <td align="right">1677</td>
+          </tr>
+          <tr>
+            <td align="left">Volcán San Martin</td>
+            <td align="right">1646</td>
+          </tr>
+          <tr>
+            <td align="left">Tajuya near El Paso</td>
+            <td align="right">1585</td>
+          </tr>
+          <tr>
+            <td align="left">Montaña Quemada</td>
+            <td align="right">1492</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <fig id="fig-timeline">
+      <caption><p>Figure 2: Timeline of recent earthquakes on La
+      Palma</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/fig-timeline-1.png" />
+    </fig>
+    <p>This equates to an eruption on average every -80 years up until
     the 1971 event. The probability of a future eruption can be modeled
     by a Poisson distribution
     <xref alt="Equation 1" rid="eq-poisson">Equation 1</xref>.</p>
-        <p>
-          <styled-content id="eq-poisson">
-            <disp-formula>
-              <alternatives>
-                <tex-math><![CDATA[
+    <p><styled-content id="eq-poisson"><disp-formula><alternatives>
+    <tex-math><![CDATA[
     p(x)=\frac{e^{-\lambda} \lambda^{x}}{x !}
      \qquad(1)]]></tex-math>
-                <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="block">
-                  <mml:mrow>
-                    <mml:mi>p</mml:mi>
-                    <mml:mrow>
-                      <mml:mo stretchy="true" form="prefix">(</mml:mo>
-                      <mml:mi>x</mml:mi>
-                      <mml:mo stretchy="true" form="postfix">)</mml:mo>
-                    </mml:mrow>
-                    <mml:mo>=</mml:mo>
-                    <mml:mfrac>
-                      <mml:mrow>
-                        <mml:msup>
-                          <mml:mi>e</mml:mi>
-                          <mml:mrow>
-                            <mml:mo>−</mml:mo>
-                            <mml:mi>λ</mml:mi>
-                          </mml:mrow>
-                        </mml:msup>
-                        <mml:msup>
-                          <mml:mi>λ</mml:mi>
-                          <mml:mi>x</mml:mi>
-                        </mml:msup>
-                      </mml:mrow>
-                      <mml:mrow>
-                        <mml:mi>x</mml:mi>
-                        <mml:mi>!</mml:mi>
-                      </mml:mrow>
-                    </mml:mfrac>
-                    <mml:mspace width="2.0em"/>
-                    <mml:mrow>
-                      <mml:mo stretchy="true" form="prefix">(</mml:mo>
-                      <mml:mn>1</mml:mn>
-                      <mml:mo stretchy="true" form="postfix">)</mml:mo>
-                    </mml:mrow>
-                  </mml:mrow>
-                </mml:math>
-              </alternatives>
-            </disp-formula>
-          </styled-content>
-        </p>
-        <p>Where <inline-formula><alternatives><tex-math><![CDATA[\lambda]]></tex-math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>λ</mml:mi></mml:math></alternatives></inline-formula>
-    is the number of eruptions per year, <inline-formula><alternatives><tex-math><![CDATA[\lambda=\frac{1}{79}]]></tex-math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mi>λ</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mn>79</mml:mn></mml:mfrac></mml:mrow></mml:math></alternatives></inline-formula>
+    <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>p</mml:mi><mml:mrow><mml:mo stretchy="true" form="prefix">(</mml:mo><mml:mi>x</mml:mi><mml:mo stretchy="true" form="postfix">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>−</mml:mo><mml:mi>λ</mml:mi></mml:mrow></mml:msup><mml:msup><mml:mi>λ</mml:mi><mml:mi>x</mml:mi></mml:msup></mml:mrow><mml:mrow><mml:mi>x</mml:mi><mml:mi>!</mml:mi></mml:mrow></mml:mfrac><mml:mspace width="2.0em"></mml:mspace><mml:mrow><mml:mo stretchy="true" form="prefix">(</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="true" form="postfix">)</mml:mo></mml:mrow></mml:mrow></mml:math></alternatives></disp-formula></styled-content></p>
+    <p>Where <inline-formula><alternatives>
+    <tex-math><![CDATA[\lambda]]></tex-math>
+    <mml:math display="inline" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mi>λ</mml:mi></mml:math></alternatives></inline-formula>
+    is the number of eruptions per year, <inline-formula><alternatives>
+    <tex-math><![CDATA[\lambda=\frac{1}{79}]]></tex-math>
+    <mml:math display="inline" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>λ</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mn>79</mml:mn></mml:mfrac></mml:mrow></mml:math></alternatives></inline-formula>
     in this case. The probability of a future eruption in the next
-    <inline-formula><alternatives><tex-math><![CDATA[t]]></tex-math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>t</mml:mi></mml:math></alternatives></inline-formula>
+    <inline-formula><alternatives>
+    <tex-math><![CDATA[t]]></tex-math>
+    <mml:math display="inline" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mi>t</mml:mi></mml:math></alternatives></inline-formula>
     years can be calculated by:</p>
-        <p>
-          <styled-content id="eq-probability">
-            <disp-formula>
-              <alternatives>
-                <tex-math><![CDATA[
+    <p><styled-content id="eq-probability"><disp-formula><alternatives>
+    <tex-math><![CDATA[
     p_e = 1-\mathrm{e}^{-t \lambda}
      \qquad(2)]]></tex-math>
-                <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="block">
-                  <mml:mrow>
-                    <mml:msub>
-                      <mml:mi>p</mml:mi>
-                      <mml:mi>e</mml:mi>
-                    </mml:msub>
-                    <mml:mo>=</mml:mo>
-                    <mml:mn>1</mml:mn>
-                    <mml:mo>−</mml:mo>
-                    <mml:msup>
-                      <mml:mi mathvariant="normal">e</mml:mi>
-                      <mml:mrow>
-                        <mml:mo>−</mml:mo>
-                        <mml:mi>t</mml:mi>
-                        <mml:mi>λ</mml:mi>
-                      </mml:mrow>
-                    </mml:msup>
-                    <mml:mspace width="2.0em"/>
-                    <mml:mrow>
-                      <mml:mo stretchy="true" form="prefix">(</mml:mo>
-                      <mml:mn>2</mml:mn>
-                      <mml:mo stretchy="true" form="postfix">)</mml:mo>
-                    </mml:mrow>
-                  </mml:mrow>
-                </mml:math>
-              </alternatives>
-            </disp-formula>
-          </styled-content>
-        </p>
-        <p>So following the 1971 eruption the probability of an eruption in
+    <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mi>e</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msup><mml:mi mathvariant="normal">e</mml:mi><mml:mrow><mml:mo>−</mml:mo><mml:mi>t</mml:mi><mml:mi>λ</mml:mi></mml:mrow></mml:msup><mml:mspace width="2.0em"></mml:mspace><mml:mrow><mml:mo stretchy="true" form="prefix">(</mml:mo><mml:mn>2</mml:mn><mml:mo stretchy="true" form="postfix">)</mml:mo></mml:mrow></mml:mrow></mml:math></alternatives></disp-formula></styled-content></p>
+    <p>So following the 1971 eruption the probability of an eruption in
     the following 50 years — the period ending this year — was 0.469.
     After the event, the number of eruptions per year moves to
-    <inline-formula><alternatives><tex-math><![CDATA[\lambda=\frac{1}{75}]]></tex-math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mi>λ</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mn>75</mml:mn></mml:mfrac></mml:mrow></mml:math></alternatives></inline-formula>
+    <inline-formula><alternatives>
+    <tex-math><![CDATA[\lambda=\frac{1}{75}]]></tex-math>
+    <mml:math display="inline" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>λ</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mn>75</mml:mn></mml:mfrac></mml:mrow></mml:math></alternatives></inline-formula>
     and the probability of a further eruption within the next 50 years
     (2022-2071) rises to 0.487 and in the next 100 years, this rises
     again to 0.736.</p>
-      </sec>
-      <sec id="magma-reservoirs">
-        <title>Magma Reservoirs</title>
-        <p>Studies of the magma systems feeding the volcano, such as Marrero
+  </sec>
+  <sec id="magma-reservoirs">
+    <title>Magma Reservoirs</title>
+    <p>Studies of the magma systems feeding the volcano, such as Marrero
     et al.
     (<xref alt="2019" rid="ref-marrero2019" ref-type="bibr">2019</xref>)
     has proposed that there are two main magma reservoirs feeding the
     Cumbre Vieja volcano; one in the mantle (30-40km depth) which
     charges and in turn feeds a shallower crustal reservoir (10-20km
     depth).</p>
-        <fig id="fig-reservoirs">
-          <caption>
-            <p>Figure 3: Proposed model from Marrero et
-      al</p>
-          </caption>
-          <graphic mimetype="image" mime-subtype="png" xlink:href="images/reservoirs.png"/>
-        </fig>
-        <p>In this paper, we look at recent seismicity data to see if we can
+    <fig id="fig-reservoirs">
+      <caption><p>Figure 3: Proposed model from Marrero et
+      al</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="images/reservoirs.png" />
+    </fig>
+    <p>In this paper, we look at recent seismicity data to see if we can
     see evidence of such a system action, see
     <xref alt="Figure 3" rid="fig-reservoirs">Figure 3</xref>.</p>
-      </sec>
-    </sec>
-    <sec id="dataset">
-      <title>Dataset</title>
-      <p>The earthquake dataset used in our analysis was generated from the
+  </sec>
+</sec>
+<sec id="dataset">
+  <title>Dataset</title>
+  <p>The earthquake dataset used in our analysis was generated from the
   <ext-link ext-link-type="uri" xlink:href="https://www.ign.es/web/resources/volcanologia/tproximos/canarias.html">IGN
   web portal</ext-link> this is public data released under a permissive
   license. Data recorded using the network of Seismic Monitoring
@@ -291,148 +255,135 @@ system feeding the currently very active volcano.</p>
   <ext-link ext-link-type="uri" xlink:href="https://github.com/stevejpurves/ign-earthquake-data">is
   available on GitHub</ext-link> along with a copy of recently updated
   data.</p>
-      <sec id="visualising-long-term-earthquake-data">
-        <title>Visualising Long term earthquake data</title>
-        <p>Data taken directly from the IGN Catalog</p>
-        <fig id="fig-spatial-plot">
-          <caption>
-            <p>Figure 4: Locations of earthquakes on La Palma since
-      2017.</p>
-          </caption>
-          <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/fig-spatial-plot-output-1.png"/>
-        </fig>
-      </sec>
-      <sec id="main-timeline-figure">
-        <title>Main Timeline Figure</title>
-        <fig id="fig-eq-timeline">
-          <caption>
-            <p>Figure 5: Earthquakes preceeding and following the
-      2021 eruption.</p>
-          </caption>
-          <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/fig-eq-timeline-output-2.png"/>
-        </fig>
-      </sec>
-    </sec>
-    <sec id="results">
-      <title>Results</title>
-      <p>The dataset was loaded into this Jupyter notebook and filtered down
+  <sec id="visualising-long-term-earthquake-data">
+    <title>Visualising Long term earthquake data</title>
+    <p>Data taken directly from the IGN Catalog</p>
+    <fig id="fig-spatial-plot">
+      <caption><p>Figure 4: Locations of earthquakes on La Palma since
+      2017.</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/fig-spatial-plot-output-1.png" />
+    </fig>
+  </sec>
+  <sec id="main-timeline-figure">
+    <title>Main Timeline Figure</title>
+    <fig id="fig-eq-timeline">
+      <caption><p>Figure 5: Earthquakes preceeding and following the
+      2021 eruption.</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/fig-eq-timeline-output-2.png" />
+    </fig>
+  </sec>
+</sec>
+<sec id="results">
+  <title>Results</title>
+  <p>The dataset was loaded into this Jupyter notebook and filtered down
   to La Palma events only. This results in 5465 data points which we
   then visualized to understand their distributions spatially, by depth,
   by magnitude and in time.</p>
-      <p>From our analysis above, we can see 3 different systems in
+  <p>From our analysis above, we can see 3 different systems in
   play.</p>
-      <p>Firstly, the shallow earthquake swarm leading up to the eruption on
+  <p>Firstly, the shallow earthquake swarm leading up to the eruption on
   19th September, related to significant surface deformation and shallow
   magma intrusion.</p>
-      <p>After the eruption, continuous shallow seismicity started at
+  <p>After the eruption, continuous shallow seismicity started at
   10-15km corresponding to magma movement in the crustal reservoir.</p>
-      <p>Subsequently, high magnitude events begin occurring at 30-40km
+  <p>Subsequently, high magnitude events begin occurring at 30-40km
   depths corresponding to changes in the mantle reservoir. These are
   also continuous but occur with a lower frequency than in the crustal
   reservoir.</p>
-    </sec>
-    <sec id="conclusions">
-      <title>Conclusions</title>
-      <p>From the analysis of the earthquake data collected and published by
+</sec>
+<sec id="conclusions">
+  <title>Conclusions</title>
+  <p>From the analysis of the earthquake data collected and published by
   IGN for the period of 11 September through to 9 November 2021.
   Visualization of the earthquake events at different depths appears to
   confirm the presence of both mantle and crustal reservoirs as proposed
   by Marrero et al.
   (<xref alt="2019" rid="ref-marrero2019" ref-type="bibr">2019</xref>).</p>
-      <p>A web scraping script was developed to pull data into a
+  <p>A web scraping script was developed to pull data into a
   machine-readable form for analysis. That code tool
   <ext-link ext-link-type="uri" xlink:href="https://github.com/stevejpurves/ign-earthquake-data">is
   available on GitHub</ext-link> along with a copy of recently updated
   data.</p>
-      <sec id="references">
-        <title>References</title>
-      </sec>
-    </sec>
-  </body>
-  <back>
-    <ref-list>
-      <ref id="ref-marrero2019">
-        <element-citation publication-type="article-journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Marrero</surname>
-              <given-names>José</given-names>
-            </name>
-            <name>
-              <surname>García</surname>
-              <given-names>Alicia</given-names>
-            </name>
-            <name>
-              <surname>Berrocoso</surname>
-              <given-names>Manuel</given-names>
-            </name>
-            <name>
-              <surname>Llinares</surname>
-              <given-names>Ángeles</given-names>
-            </name>
-            <name>
-              <surname>Rodríguez-Losada</surname>
-              <given-names>Antonio</given-names>
-            </name>
-            <name>
-              <surname>Ortiz</surname>
-              <given-names>R.</given-names>
-            </name>
-          </person-group>
-          <article-title>Strategies for the development of volcanic hazard maps in monogenetic volcanic fields: The example of La Palma (Canary Islands)</article-title>
-          <source>Journal of Applied Volcanology</source>
-          <year iso-8601-date="2019-07">2019</year>
-          <month>07</month>
-          <volume>8</volume>
-          <pub-id pub-id-type="doi">10.1186/s13617-019-0085-5</pub-id>
-          <fpage/>
-          <lpage/>
-        </element-citation>
-      </ref>
-    </ref-list>
-  </back>
-  <sub-article article-type="notebook" id="nb-10-nb-article">
-    <front-stub>
-      <title-group>
-        <article-title>La Palma Earthquakes</article-title>
-      </title-group>
-      <contrib-group>
-        <contrib contrib-type="author" corresp="yes">
-          <contrib-id contrib-id-type="orcid">0000-0002-0760-5497</contrib-id>
-          <name>
-            <surname>Purves</surname>
-            <given-names>Steve</given-names>
-          </name>
-          <string-name>Steve Purves</string-name>
-          <email>steve@curvenote.com</email>
-          <role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
-          <role vocab="https://credit.niso.org" vocab-term="project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project
+  <sec id="references">
+    <title>References</title>
+  </sec>
+</sec>
+</body>
+
+<back>
+<ref-list>
+  <ref id="ref-marrero2019">
+    <element-citation publication-type="article-journal">
+      <person-group person-group-type="author">
+        <name><surname>Marrero</surname><given-names>José</given-names></name>
+        <name><surname>García</surname><given-names>Alicia</given-names></name>
+        <name><surname>Berrocoso</surname><given-names>Manuel</given-names></name>
+        <name><surname>Llinares</surname><given-names>Ángeles</given-names></name>
+        <name><surname>Rodríguez-Losada</surname><given-names>Antonio</given-names></name>
+        <name><surname>Ortiz</surname><given-names>R.</given-names></name>
+      </person-group>
+      <article-title>Strategies for the development of volcanic hazard maps in monogenetic volcanic fields: The example of La Palma (Canary Islands)</article-title>
+      <source>Journal of Applied Volcanology</source>
+      <year iso-8601-date="2019-07">2019</year><month>07</month>
+      <volume>8</volume>
+      <pub-id pub-id-type="doi">10.1186/s13617-019-0085-5</pub-id>
+      <fpage></fpage>
+      <lpage></lpage>
+    </element-citation>
+  </ref>
+</ref-list>
+</back>
+
+<sub-article article-type="notebook" id="nb-10-nb-article">
+<front-stub>
+<title-group>
+<article-title>La Palma Earthquakes</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<contrib-id contrib-id-type="orcid">0000-0002-0760-5497</contrib-id>
+<name>
+<surname>Purves</surname>
+<given-names>Steve</given-names>
+</name>
+<string-name>Steve Purves</string-name>
+<email>steve@curvenote.com</email>
+<role vocab="https://credit.niso.org" vocab-term="investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+<role vocab="https://credit.niso.org" vocab-term="project
+administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project
 administration</role>
-          <role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
-          <role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
-          <xref ref-type="aff" rid="aff-1-nb-article">a</xref>
-          <xref ref-type="corresp" rid="cor-1-nb-article">*</xref>
-        </contrib>
-        <contrib contrib-type="author">
-          <contrib-id contrib-id-type="orcid">0000-0002-7859-8394</contrib-id>
-          <name>
-            <surname>Cockett</surname>
-            <given-names>Rowan</given-names>
-          </name>
-          <string-name>Rowan Cockett</string-name>
-          <xref ref-type="aff" rid="aff-1-nb-article">a</xref>
-        </contrib>
-      </contrib-group>
-      <aff id="aff-1-nb-article">
-        <institution-wrap>
-          <institution>Curvenote</institution>
-        </institution-wrap>
-      </aff>
-      <author-notes>
-        <corresp id="cor-1-nb-article">steve@curvenote.com</corresp>
-      </author-notes>
-      <abstract>
-        <p>In September 2021, a significant jump in seismic activity on the
+<role vocab="https://credit.niso.org" vocab-term="software" vocab-term-identifier="https://credit.niso.org/contributor-roles/software/">Software</role>
+<role vocab="https://credit.niso.org" vocab-term="visualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+<xref ref-type="aff" rid="aff-1-nb-article">a</xref>
+<xref ref-type="corresp" rid="cor-1-nb-article">&#x002A;</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-7859-8394</contrib-id>
+<name>
+<surname>Cockett</surname>
+<given-names>Rowan</given-names>
+</name>
+<string-name>Rowan Cockett</string-name>
+<xref ref-type="aff" rid="aff-1-nb-article">a</xref>
+</contrib>
+</contrib-group>
+<aff id="aff-1-nb-article">
+<institution-wrap>
+<institution>Curvenote</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-1-nb-article">steve@curvenote.com</corresp>
+</author-notes>
+<abstract>
+<p>In September 2021, a significant jump in seismic activity on the
 island of La Palma (Canary Islands, Spain) signaled the start of a
 volcanic crisis that still continues at the time of writing. Earthquake
 data is continually collected and published by the Instituto Geográphico
@@ -440,13 +391,14 @@ Nacional (IGN). We have created an accessible dataset from this and
 completed preliminary data analysis which shows seismicity originating
 at two distinct depths, consistent with the model of a two reservoir
 system feeding the currently very active volcano.</p>
-      </abstract>
-    </front-stub>
-    <body>
-      <sec id="nb-code-cell-1-nb-article" specific-use="notebook-code">
-        <code language="r script">library(tidyverse)</code>
-        <sec id="nb-code-cell-1-output-0-nb-article" specific-use="notebook-output">
-          <preformat>── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+</abstract>
+</front-stub>
+
+<body>
+<sec id="nb-code-cell-1-nb-article" specific-use="notebook-code">
+<code language="r script">library(tidyverse)</code>
+<sec id="nb-code-cell-1-output-0-nb-article" specific-use="notebook-output">
+<preformat>── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
 ✔ dplyr     1.1.2     ✔ readr     2.1.4
 ✔ forcats   1.0.0     ✔ stringr   1.5.0
 ✔ ggplot2   3.4.2     ✔ tibble    3.2.1
@@ -456,243 +408,172 @@ system feeding the currently very active volcano.</p>
 ✖ dplyr::filter() masks stats::filter()
 ✖ dplyr::lag()    masks stats::lag()
 ℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors</preformat>
-        </sec>
-      </sec>
-      <sec id="introduction-nb-article">
-        <title>Introduction</title>
-        <p>La Palma is one of the west most islands in the Volcanic
+</sec>
+</sec>
+<sec id="introduction-nb-article">
+  <title>Introduction</title>
+  <p>La Palma is one of the west most islands in the Volcanic
   Archipelago of the Canary Islands, a Spanish territory situated is the
   Atlantic Ocean where at their closest point are 100km from the African
   coast <xref alt="Figure 1" rid="fig-map-nb-article">Figure 1</xref>. The island
   is one of the youngest, remains active and is still in the island
   forming stage.</p>
-        <fig id="fig-map-nb-article">
-          <caption>
-            <p>Figure 1: Map of La Palma in the Canary Islands. Image
+  <fig id="fig-map-nb-article">
+    <caption><p>Figure 1: Map of La Palma in the Canary Islands. Image
     credit
-    <ext-link ext-link-type="uri" xlink:href="https://commons.wikimedia.org/w/index.php?curid=76638603">NordNordWest</ext-link></p>
-          </caption>
-          <graphic mimetype="image" mime-subtype="png" xlink:href="images/la-palma-map.png"/>
-        </fig>
-        <p>La Palma has been constructed by various phases of volcanism, the
+    <ext-link ext-link-type="uri" xlink:href="https://commons.wikimedia.org/w/index.php?curid=76638603">NordNordWest</ext-link></p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="images/la-palma-map.png" />
+  </fig>
+  <p>La Palma has been constructed by various phases of volcanism, the
   most recent and currently active being the <italic>Cumbre
   Vieja</italic> volcano, a north-south volcanic ridge that constitutes
   the southern half of the island.</p>
-        <sec id="eruption-history-nb-article">
-          <title>Eruption History</title>
-          <p>A number of eruptions were recorded since the colonization of the
+  <sec id="eruption-history-nb-article">
+    <title>Eruption History</title>
+    <p>A number of eruptions were recorded since the colonization of the
     islands by Europeans in the late 1400s, these are summarised in
     <xref alt="Table 1" rid="tbl-history-nb-article">Table 1</xref>.</p>
-          <sec id="nb-code-cell-2-nb-article" specific-use="notebook-code">
-            <code language="r script">eruptions &lt;- tribble(
+    <sec id="nb-code-cell-2-nb-article" specific-use="notebook-code">
+    <code language="r script">eruptions &lt;- tribble(
   ~ name, ~ year,
-  "Current",             2021,
-  "Teneguía",            1971,
-  "Nambroque",           1949,
-  "El Charco",           1712,
-  "Volcán San Antonio",  1677,
-  "Volcán San Martin",   1646,
-  "Tajuya near El Paso", 1585,
-  "Montaña Quemada",     1492,
+  &quot;Current&quot;,             2021,
+  &quot;Teneguía&quot;,            1971,
+  &quot;Nambroque&quot;,           1949,
+  &quot;El Charco&quot;,           1712,
+  &quot;Volcán San Antonio&quot;,  1677,
+  &quot;Volcán San Martin&quot;,   1646,
+  &quot;Tajuya near El Paso&quot;, 1585,
+  &quot;Montaña Quemada&quot;,     1492,
 )
 n_eruptions &lt;- nrow(eruptions)</code>
-          </sec>
-          <sec id="nb-code-cell-3-nb-article" specific-use="notebook-code">
-            <code language="r script">eruptions |&gt; knitr::kable()</code>
-            <table-wrap>
-              <caption>
-                <p>Table 1: Recent historic eruptions on La Palma</p>
-              </caption>
-              <table id="tbl-history-nb-article">
-                <thead>
-                  <tr>
-                    <th align="left">name</th>
-                    <th align="right">year</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td align="left">Current</td>
-                    <td align="right">2021</td>
-                  </tr>
-                  <tr>
-                    <td align="left">Teneguía</td>
-                    <td align="right">1971</td>
-                  </tr>
-                  <tr>
-                    <td align="left">Nambroque</td>
-                    <td align="right">1949</td>
-                  </tr>
-                  <tr>
-                    <td align="left">El Charco</td>
-                    <td align="right">1712</td>
-                  </tr>
-                  <tr>
-                    <td align="left">Volcán San Antonio</td>
-                    <td align="right">1677</td>
-                  </tr>
-                  <tr>
-                    <td align="left">Volcán San Martin</td>
-                    <td align="right">1646</td>
-                  </tr>
-                  <tr>
-                    <td align="left">Tajuya near El Paso</td>
-                    <td align="right">1585</td>
-                  </tr>
-                  <tr>
-                    <td align="left">Montaña Quemada</td>
-                    <td align="right">1492</td>
-                  </tr>
-                </tbody>
-              </table>
-            </table-wrap>
-          </sec>
-          <sec id="nb-code-cell-4-nb-article" specific-use="notebook-code">
-            <code language="r script">par(mar = c(3, 1, 1, 1) + 0.1)
+    </sec>
+    <sec id="nb-code-cell-3-nb-article" specific-use="notebook-code">
+    <code language="r script">eruptions |&gt; knitr::kable()</code>
+    <table-wrap>
+      <caption>
+        <p>Table 1: Recent historic eruptions on La Palma</p>
+      </caption>
+      <table id="tbl-history-nb-article">
+        <thead>
+          <tr>
+            <th align="left">name</th>
+            <th align="right">year</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left">Current</td>
+            <td align="right">2021</td>
+          </tr>
+          <tr>
+            <td align="left">Teneguía</td>
+            <td align="right">1971</td>
+          </tr>
+          <tr>
+            <td align="left">Nambroque</td>
+            <td align="right">1949</td>
+          </tr>
+          <tr>
+            <td align="left">El Charco</td>
+            <td align="right">1712</td>
+          </tr>
+          <tr>
+            <td align="left">Volcán San Antonio</td>
+            <td align="right">1677</td>
+          </tr>
+          <tr>
+            <td align="left">Volcán San Martin</td>
+            <td align="right">1646</td>
+          </tr>
+          <tr>
+            <td align="left">Tajuya near El Paso</td>
+            <td align="right">1585</td>
+          </tr>
+          <tr>
+            <td align="left">Montaña Quemada</td>
+            <td align="right">1492</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    </sec>
+    <sec id="nb-code-cell-4-nb-article" specific-use="notebook-code">
+    <code language="r script">par(mar = c(3, 1, 1, 1) + 0.1)
 plot(eruptions$year, rep(0, n_eruptions), 
-  pch = "|", axes = FALSE)
+  pch = &quot;|&quot;, axes = FALSE)
 axis(1)
 box()</code>
-            <fig id="fig-timeline-nb-article">
-              <caption>
-                <p>Figure 2: Timeline of recent earthquakes on La
-      Palma</p>
-              </caption>
-              <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/fig-timeline-1.png"/>
-            </fig>
-          </sec>
-          <sec id="nb-code-cell-5-nb-article" specific-use="notebook-code">
-            <code language="r script">avg_years_between_eruptions &lt;- eruptions |&gt; slice(-1) |&gt; 
+    <fig id="fig-timeline-nb-article">
+      <caption><p>Figure 2: Timeline of recent earthquakes on La
+      Palma</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/fig-timeline-1.png" />
+    </fig>
+    </sec>
+    <sec id="nb-code-cell-5-nb-article" specific-use="notebook-code">
+    <code language="r script">avg_years_between_eruptions &lt;- eruptions |&gt; slice(-1) |&gt; 
   pull(year) |&gt; diff() |&gt; mean() 
 avg_years_between_eruptions</code>
-            <sec id="nb-code-cell-5-output-0-nb-article" specific-use="notebook-output">
-              <preformat>[1] -79.83333</preformat>
-            </sec>
-          </sec>
-          <p>This equates to an eruption on average every -80 years up until
+    <sec id="nb-code-cell-5-output-0-nb-article" specific-use="notebook-output">
+    <preformat>[1] -79.83333</preformat>
+    </sec>
+    </sec>
+    <p>This equates to an eruption on average every -80 years up until
     the 1971 event. The probability of a future eruption can be modeled
     by a Poisson distribution
     <xref alt="Equation 1" rid="eq-poisson-nb-article">Equation 1</xref>.</p>
-          <p>
-            <styled-content id="eq-poisson-nb-article">
-              <disp-formula>
-                <alternatives>
-                  <tex-math><![CDATA[
+    <p><styled-content id="eq-poisson-nb-article"><disp-formula><alternatives>
+    <tex-math><![CDATA[
     p(x)=\frac{e^{-\lambda} \lambda^{x}}{x !}
      \qquad(1)]]></tex-math>
-                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="block">
-                    <mml:mrow>
-                      <mml:mi>p</mml:mi>
-                      <mml:mrow>
-                        <mml:mo stretchy="true" form="prefix">(</mml:mo>
-                        <mml:mi>x</mml:mi>
-                        <mml:mo stretchy="true" form="postfix">)</mml:mo>
-                      </mml:mrow>
-                      <mml:mo>=</mml:mo>
-                      <mml:mfrac>
-                        <mml:mrow>
-                          <mml:msup>
-                            <mml:mi>e</mml:mi>
-                            <mml:mrow>
-                              <mml:mo>−</mml:mo>
-                              <mml:mi>λ</mml:mi>
-                            </mml:mrow>
-                          </mml:msup>
-                          <mml:msup>
-                            <mml:mi>λ</mml:mi>
-                            <mml:mi>x</mml:mi>
-                          </mml:msup>
-                        </mml:mrow>
-                        <mml:mrow>
-                          <mml:mi>x</mml:mi>
-                          <mml:mi>!</mml:mi>
-                        </mml:mrow>
-                      </mml:mfrac>
-                      <mml:mspace width="2.0em"/>
-                      <mml:mrow>
-                        <mml:mo stretchy="true" form="prefix">(</mml:mo>
-                        <mml:mn>1</mml:mn>
-                        <mml:mo stretchy="true" form="postfix">)</mml:mo>
-                      </mml:mrow>
-                    </mml:mrow>
-                  </mml:math>
-                </alternatives>
-              </disp-formula>
-            </styled-content>
-          </p>
-          <p>Where <inline-formula><alternatives><tex-math><![CDATA[\lambda]]></tex-math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>λ</mml:mi></mml:math></alternatives></inline-formula>
-    is the number of eruptions per year, <inline-formula><alternatives><tex-math><![CDATA[\lambda=\frac{1}{79}]]></tex-math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mi>λ</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mn>79</mml:mn></mml:mfrac></mml:mrow></mml:math></alternatives></inline-formula>
+    <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>p</mml:mi><mml:mrow><mml:mo stretchy="true" form="prefix">(</mml:mo><mml:mi>x</mml:mi><mml:mo stretchy="true" form="postfix">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>−</mml:mo><mml:mi>λ</mml:mi></mml:mrow></mml:msup><mml:msup><mml:mi>λ</mml:mi><mml:mi>x</mml:mi></mml:msup></mml:mrow><mml:mrow><mml:mi>x</mml:mi><mml:mi>!</mml:mi></mml:mrow></mml:mfrac><mml:mspace width="2.0em"></mml:mspace><mml:mrow><mml:mo stretchy="true" form="prefix">(</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="true" form="postfix">)</mml:mo></mml:mrow></mml:mrow></mml:math></alternatives></disp-formula></styled-content></p>
+    <p>Where <inline-formula><alternatives>
+    <tex-math><![CDATA[\lambda]]></tex-math>
+    <mml:math display="inline" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mi>λ</mml:mi></mml:math></alternatives></inline-formula>
+    is the number of eruptions per year, <inline-formula><alternatives>
+    <tex-math><![CDATA[\lambda=\frac{1}{79}]]></tex-math>
+    <mml:math display="inline" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>λ</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mn>79</mml:mn></mml:mfrac></mml:mrow></mml:math></alternatives></inline-formula>
     in this case. The probability of a future eruption in the next
-    <inline-formula><alternatives><tex-math><![CDATA[t]]></tex-math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mi>t</mml:mi></mml:math></alternatives></inline-formula>
+    <inline-formula><alternatives>
+    <tex-math><![CDATA[t]]></tex-math>
+    <mml:math display="inline" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mi>t</mml:mi></mml:math></alternatives></inline-formula>
     years can be calculated by:</p>
-          <p>
-            <styled-content id="eq-probability-nb-article">
-              <disp-formula>
-                <alternatives>
-                  <tex-math><![CDATA[
+    <p><styled-content id="eq-probability-nb-article"><disp-formula><alternatives>
+    <tex-math><![CDATA[
     p_e = 1-\mathrm{e}^{-t \lambda}
      \qquad(2)]]></tex-math>
-                  <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="block">
-                    <mml:mrow>
-                      <mml:msub>
-                        <mml:mi>p</mml:mi>
-                        <mml:mi>e</mml:mi>
-                      </mml:msub>
-                      <mml:mo>=</mml:mo>
-                      <mml:mn>1</mml:mn>
-                      <mml:mo>−</mml:mo>
-                      <mml:msup>
-                        <mml:mi mathvariant="normal">e</mml:mi>
-                        <mml:mrow>
-                          <mml:mo>−</mml:mo>
-                          <mml:mi>t</mml:mi>
-                          <mml:mi>λ</mml:mi>
-                        </mml:mrow>
-                      </mml:msup>
-                      <mml:mspace width="2.0em"/>
-                      <mml:mrow>
-                        <mml:mo stretchy="true" form="prefix">(</mml:mo>
-                        <mml:mn>2</mml:mn>
-                        <mml:mo stretchy="true" form="postfix">)</mml:mo>
-                      </mml:mrow>
-                    </mml:mrow>
-                  </mml:math>
-                </alternatives>
-              </disp-formula>
-            </styled-content>
-          </p>
-          <p>So following the 1971 eruption the probability of an eruption in
+    <mml:math display="block" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mi>e</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msup><mml:mi mathvariant="normal">e</mml:mi><mml:mrow><mml:mo>−</mml:mo><mml:mi>t</mml:mi><mml:mi>λ</mml:mi></mml:mrow></mml:msup><mml:mspace width="2.0em"></mml:mspace><mml:mrow><mml:mo stretchy="true" form="prefix">(</mml:mo><mml:mn>2</mml:mn><mml:mo stretchy="true" form="postfix">)</mml:mo></mml:mrow></mml:mrow></mml:math></alternatives></disp-formula></styled-content></p>
+    <p>So following the 1971 eruption the probability of an eruption in
     the following 50 years — the period ending this year — was 0.469.
     After the event, the number of eruptions per year moves to
-    <inline-formula><alternatives><tex-math><![CDATA[\lambda=\frac{1}{75}]]></tex-math><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline"><mml:mrow><mml:mi>λ</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mn>75</mml:mn></mml:mfrac></mml:mrow></mml:math></alternatives></inline-formula>
+    <inline-formula><alternatives>
+    <tex-math><![CDATA[\lambda=\frac{1}{75}]]></tex-math>
+    <mml:math display="inline" xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>λ</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mn>75</mml:mn></mml:mfrac></mml:mrow></mml:math></alternatives></inline-formula>
     and the probability of a further eruption within the next 50 years
     (2022-2071) rises to 0.487 and in the next 100 years, this rises
     again to 0.736.</p>
-        </sec>
-        <sec id="magma-reservoirs-nb-article">
-          <title>Magma Reservoirs</title>
-          <p>Studies of the magma systems feeding the volcano, such as Marrero
+  </sec>
+  <sec id="magma-reservoirs-nb-article">
+    <title>Magma Reservoirs</title>
+    <p>Studies of the magma systems feeding the volcano, such as Marrero
     et al.
     (<xref alt="2019" rid="ref-marrero2019-nb-article" ref-type="bibr">2019</xref>)
     has proposed that there are two main magma reservoirs feeding the
     Cumbre Vieja volcano; one in the mantle (30-40km depth) which
     charges and in turn feeds a shallower crustal reservoir (10-20km
     depth).</p>
-          <fig id="fig-reservoirs-nb-article">
-            <caption>
-              <p>Figure 3: Proposed model from Marrero et
-      al</p>
-            </caption>
-            <graphic mimetype="image" mime-subtype="png" xlink:href="images/reservoirs.png"/>
-          </fig>
-          <p>In this paper, we look at recent seismicity data to see if we can
+    <fig id="fig-reservoirs-nb-article">
+      <caption><p>Figure 3: Proposed model from Marrero et
+      al</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="images/reservoirs.png" />
+    </fig>
+    <p>In this paper, we look at recent seismicity data to see if we can
     see evidence of such a system action, see
     <xref alt="Figure 3" rid="fig-reservoirs-nb-article">Figure 3</xref>.</p>
-        </sec>
-      </sec>
-      <sec id="dataset-nb-article">
-        <title>Dataset</title>
-        <p>The earthquake dataset used in our analysis was generated from the
+  </sec>
+</sec>
+<sec id="dataset-nb-article">
+  <title>Dataset</title>
+  <p>The earthquake dataset used in our analysis was generated from the
   <ext-link ext-link-type="uri" xlink:href="https://www.ign.es/web/resources/volcanologia/tproximos/canarias.html">IGN
   web portal</ext-link> this is public data released under a permissive
   license. Data recorded using the network of Seismic Monitoring
@@ -701,41 +582,39 @@ avg_years_between_eruptions</code>
   <ext-link ext-link-type="uri" xlink:href="https://github.com/stevejpurves/ign-earthquake-data">is
   available on GitHub</ext-link> along with a copy of recently updated
   data.</p>
-        <sec id="visualising-long-term-earthquake-data-nb-article">
-          <title>Visualising Long term earthquake data</title>
-          <p>Data taken directly from the IGN Catalog</p>
-          <sec id="cell-fig-spatial-plot-nb-article" specific-use="notebook-code">
-            <code language="python">from matplotlib import colormaps
+  <sec id="visualising-long-term-earthquake-data-nb-article">
+    <title>Visualising Long term earthquake data</title>
+    <p>Data taken directly from the IGN Catalog</p>
+    <sec id="cell-fig-spatial-plot-nb-article" specific-use="notebook-code">
+    <code language="python">from matplotlib import colormaps
 cmap = colormaps['viridis_r']
-ax = df.plot.scatter(x="Longitude", y="Latitude", 
-                     s=40-df["Depth(km)"], c=df["Magnitude"], 
-                     figsize=(12,10), grid="on", cmap=cmap)
+ax = df.plot.scatter(x=&quot;Longitude&quot;, y=&quot;Latitude&quot;, 
+                     s=40-df[&quot;Depth(km)&quot;], c=df[&quot;Magnitude&quot;], 
+                     figsize=(12,10), grid=&quot;on&quot;, cmap=cmap)
 colorbar = ax.collections[0].colorbar
-colorbar.set_label("Magnitude")
+colorbar.set_label(&quot;Magnitude&quot;)
 
 plt.show()</code>
-            <sec id="cell-fig-spatial-plot-output-0-nb-article" specific-use="notebook-output">
-              <fig id="fig-spatial-plot-nb-article">
-                <caption>
-                  <p>Figure 4: Locations of earthquakes on La Palma since
-      2017.</p>
-                </caption>
-                <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/fig-spatial-plot-output-1.png"/>
-              </fig>
-            </sec>
-          </sec>
-        </sec>
-        <sec id="main-timeline-figure-nb-article">
-          <title>Main Timeline Figure</title>
-          <sec id="cell-fig-eq-timeline-nb-article" specific-use="notebook-code">
-            <code language="python">eruption &lt;- ymd_hms("2021-09-19 14:13:00")
-date_axis_breaks &lt;- as.Date("2021-10-15") + months(rep(0:2, each = 2)) - 
+    <sec id="cell-fig-spatial-plot-output-0-nb-article" specific-use="notebook-output">
+    <fig id="fig-spatial-plot-nb-article">
+      <caption><p>Figure 4: Locations of earthquakes on La Palma since
+      2017.</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/fig-spatial-plot-output-1.png" />
+    </fig>
+    </sec>
+    </sec>
+  </sec>
+  <sec id="main-timeline-figure-nb-article">
+    <title>Main Timeline Figure</title>
+    <sec id="cell-fig-eq-timeline-nb-article" specific-use="notebook-code">
+    <code language="python">eruption &lt;- ymd_hms(&quot;2021-09-19 14:13:00&quot;)
+date_axis_breaks &lt;- as.Date(&quot;2021-10-15&quot;) + months(rep(0:2, each = 2)) - 
       days(rep(c(14, 0), times = 3))
 date_axis_breaks &lt;- c(eruption, date_axis_breaks[-1])
 
 # Custom Magnitude Scale transform
 trans_mag &lt;- scales::trans_new(
-  name = "Magnitude transformation",
+  name = &quot;Magnitude transformation&quot;,
   transform = \(x) 3*2^(1.3*x),
   inverse = \(x) (1/1.3) * log2(x/3)
 )
@@ -745,120 +624,124 @@ df_erupt |&gt;
   arrange(Magnitude) |&gt; 
   ggplot(aes(DateTime, `Depth(km)`)) + 
   geom_point(aes(fill = Magnitude_categories, size = Magnitude,
-    alpha = Magnitude_categories), shape = 21, color = "black") +
+    alpha = Magnitude_categories), shape = 21, color = &quot;black&quot;) +
   geom_vline(xintercept = eruption, color = colors[7]) +
-  annotate("text", x = eruption, y = 20, label = "ERUPTION", 
+  annotate(&quot;text&quot;, x = eruption, y = 20, label = &quot;ERUPTION&quot;, 
     color = colors[7], angle = 90, hjust = 1, vjust = -0.2, size = 6) +
-  annotate("rect", xmin = epochs$start, xmax = epochs$end,
+  annotate(&quot;rect&quot;, xmin = epochs$start, xmax = epochs$end,
     ymin = -Inf, ymax = Inf, fill = colors[c(1, 3, 5, 7, 7)], alpha = 0.1) + 
-  annotate("text", x =  epochs$start + 0.5*(epochs$end - epochs$start), y = -4, 
+  annotate(&quot;text&quot;, x =  epochs$start + 0.5*(epochs$end - epochs$start), y = -4, 
     label = epochs$text, color = colors[c(1, 3, 5, 7, NA)], size = 7) +
-  scale_y_continuous("Depth (km)", trans = scales::reverse_trans(), 
+  scale_y_continuous(&quot;Depth (km)&quot;, trans = scales::reverse_trans(), 
     breaks = seq(0, 40, 10), limits = c( 45, -5), sec.axis = dup_axis()) +
-  scale_x_datetime("Eruption Timeline", expand = c(0, 0), 
-    date_labels = "%Y-%m-%d", breaks = date_axis_breaks) +
-  scale_fill_manual("Event Magnitude (M)", values = colors[c(13, 17, 5, 3, 7)]) +
-  scale_alpha_manual("Event Magnitude (M)", values = c(0.3, 0.4, 0.5, 0.6, 0.8)) +
-  scale_size("Event Magnitude (M)", breaks = 1:5, labels = mag_labels, 
+  scale_x_datetime(&quot;Eruption Timeline&quot;, expand = c(0, 0), 
+    date_labels = &quot;%Y-%m-%d&quot;, breaks = date_axis_breaks) +
+  scale_fill_manual(&quot;Event Magnitude (M)&quot;, values = colors[c(13, 17, 5, 3, 7)]) +
+  scale_alpha_manual(&quot;Event Magnitude (M)&quot;, values = c(0.3, 0.4, 0.5, 0.6, 0.8)) +
+  scale_size(&quot;Event Magnitude (M)&quot;, breaks = 1:5, labels = mag_labels, 
     trans = trans_mag) +
-  theme_bw(base_size = 20, base_family = "Helvetica") + 
+  theme_bw(base_size = 20, base_family = &quot;Helvetica&quot;) + 
   theme(
     legend.position = c(0.01, 0.01), 
-    legend.justification = c("left", "bottom"),
+    legend.justification = c(&quot;left&quot;, &quot;bottom&quot;),
     panel.grid.major.x = element_blank(),
     panel.grid.minor.x = element_blank(),
     panel.grid.minor.y = element_blank(),
     panel.border = element_blank(),
-    axis.line.x.bottom = element_line(color = "grey50"),
+    axis.line.x.bottom = element_line(color = &quot;grey50&quot;),
     axis.title.y.right = element_blank(),
     plot.title = element_text(hjust = 0.5, margin = margin(t = 20, b = 20))
   ) +
-  labs(title = "Recorded seismicity during the La Palma eruption 11 September - 15 December 2021 (INVOLCAN Dataset)")</code>
-            <sec id="cell-fig-eq-timeline-output-0-nb-article" specific-use="notebook-output">
-              <preformat>Warning: Removed 1 rows containing missing values (`geom_point()`).Warning: Removed 1 rows containing missing values (`geom_text()`).</preformat>
-            </sec>
-            <sec id="cell-fig-eq-timeline-output-1-nb-article" specific-use="notebook-output">
-              <fig id="fig-eq-timeline-nb-article">
-                <caption>
-                  <p>Figure 5: Earthquakes preceeding and following the
-      2021 eruption.</p>
-                </caption>
-                <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/fig-eq-timeline-output-2.png"/>
-              </fig>
-            </sec>
-          </sec>
-        </sec>
-      </sec>
-      <sec id="results-nb-article">
-        <title>Results</title>
-        <p>The dataset was loaded into this Jupyter notebook and filtered down
+  labs(title = &quot;Recorded seismicity during the La Palma eruption 11 September - 15 December 2021 (INVOLCAN Dataset)&quot;)</code>
+    <sec id="cell-fig-eq-timeline-output-0-nb-article" specific-use="notebook-output">
+    <preformat>Warning: Removed 1 rows containing missing values (`geom_point()`).Warning: Removed 1 rows containing missing values (`geom_text()`).</preformat>
+    </sec>
+    <sec id="cell-fig-eq-timeline-output-1-nb-article" specific-use="notebook-output">
+    <fig id="fig-eq-timeline-nb-article">
+      <caption><p>Figure 5: Earthquakes preceeding and following the
+      2021 eruption.</p></caption>
+      <graphic mimetype="image" mime-subtype="png" xlink:href="index_files/figure-jats/fig-eq-timeline-output-2.png" />
+    </fig>
+    </sec>
+    </sec>
+  </sec>
+</sec>
+<sec id="results-nb-article">
+  <title>Results</title>
+  <p>The dataset was loaded into this Jupyter notebook and filtered down
   to La Palma events only. This results in 5465 data points which we
   then visualized to understand their distributions spatially, by depth,
   by magnitude and in time.</p>
-        <p>From our analysis above, we can see 3 different systems in
+  <p>From our analysis above, we can see 3 different systems in
   play.</p>
-        <p>Firstly, the shallow earthquake swarm leading up to the eruption on
+  <p>Firstly, the shallow earthquake swarm leading up to the eruption on
   19th September, related to significant surface deformation and shallow
   magma intrusion.</p>
-        <p>After the eruption, continuous shallow seismicity started at
+  <p>After the eruption, continuous shallow seismicity started at
   10-15km corresponding to magma movement in the crustal reservoir.</p>
-        <p>Subsequently, high magnitude events begin occurring at 30-40km
+  <p>Subsequently, high magnitude events begin occurring at 30-40km
   depths corresponding to changes in the mantle reservoir. These are
   also continuous but occur with a lower frequency than in the crustal
   reservoir.</p>
-      </sec>
-      <sec id="conclusions-nb-article">
-        <title>Conclusions</title>
-        <p>From the analysis of the earthquake data collected and published by
+</sec>
+<sec id="conclusions-nb-article">
+  <title>Conclusions</title>
+  <p>From the analysis of the earthquake data collected and published by
   IGN for the period of 11 September through to 9 November 2021.
   Visualization of the earthquake events at different depths appears to
   confirm the presence of both mantle and crustal reservoirs as proposed
   by Marrero et al.
   (<xref alt="2019" rid="ref-marrero2019-nb-article" ref-type="bibr">2019</xref>).</p>
-        <p>A web scraping script was developed to pull data into a
+  <p>A web scraping script was developed to pull data into a
   machine-readable form for analysis. That code tool
   <ext-link ext-link-type="uri" xlink:href="https://github.com/stevejpurves/ign-earthquake-data">is
   available on GitHub</ext-link> along with a copy of recently updated
   data.</p>
-        <sec id="references-nb-article">
-          <title>References</title>
-        </sec>
-      </sec>
-    </body>
-    <back>
-      <ref-list>
-        <ref id="ref-marrero2019-nb-article">
-          <mixed-citation>Marrero, José, Alicia García, Manuel Berrocoso,
+  <sec id="references-nb-article">
+    <title>References</title>
+  </sec>
+</sec>
+</body>
+
+
+
+<back>
+<ref-list>
+  <ref id="ref-marrero2019-nb-article">
+    <mixed-citation>Marrero, José, Alicia García, Manuel Berrocoso,
     Ángeles Llinares, Antonio Rodríguez-Losada, and R. Ortiz. 2019.
     “Strategies for the Development of Volcanic Hazard Maps in
     Monogenetic Volcanic Fields: The Example of La Palma (Canary
     Islands).” <italic>Journal of Applied Volcanology</italic> 8 (July).
     <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/s13617-019-0085-5">https://doi.org/10.1186/s13617-019-0085-5</ext-link>.</mixed-citation>
-        </ref>
-      </ref-list>
-    </back>
-  </sub-article>
-  <sub-article article-type="notebook" id="nb-3-nb-1">
-    <front-stub>
-      <title-group>
-        <article-title>Generate main timeline plot</article-title>
-      </title-group>
-      <contrib-group>
-        <contrib contrib-type="author">
-          <name>
-            <surname>Wickham</surname>
-            <given-names>Charlotte</given-names>
-          </name>
-          <string-name>Charlotte Wickham</string-name>
-        </contrib>
-      </contrib-group>
-    </front-stub>
-    <body>
-      <sec id="nb-code-cell-1-nb-1" specific-use="notebook-code">
-        <code language="r script">library(tidyverse)</code>
-        <code language="r script">library(ggExtra)</code>
-        <sec id="nb-code-cell-1-output-0-nb-1" specific-use="notebook-output">
-          <preformat>── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+  </ref>
+</ref-list>
+</back>
+
+
+</sub-article>
+<sub-article article-type="notebook" id="nb-3-nb-1">
+<front-stub>
+<title-group>
+<article-title>Generate main timeline plot</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Wickham</surname>
+<given-names>Charlotte</given-names>
+</name>
+<string-name>Charlotte Wickham</string-name>
+</contrib>
+</contrib-group>
+</front-stub>
+
+<body>
+<sec id="nb-code-cell-1-nb-1" specific-use="notebook-code">
+<code language="r script">library(tidyverse)</code>
+<code language="r script">library(ggExtra)</code>
+<sec id="nb-code-cell-1-output-0-nb-1" specific-use="notebook-output">
+<preformat>── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
 ✔ dplyr     1.1.2     ✔ readr     2.1.4
 ✔ forcats   1.0.0     ✔ stringr   1.5.0
 ✔ ggplot2   3.4.2     ✔ tibble    3.2.1
@@ -868,27 +751,27 @@ df_erupt |&gt;
 ✖ dplyr::filter() masks stats::filter()
 ✖ dplyr::lag()    masks stats::lag()
 ℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors</preformat>
-        </sec>
-      </sec>
-      <sec id="import-and-mutate-nb-1">
-        <title>Import and mutate</title>
-        <p>Get data, discretize depth:</p>
-        <sec id="nb-code-cell-2-nb-1" specific-use="notebook-code">
-          <code language="r script">df_ign &lt;- read_csv("../data/lapalma_ign.csv")</code>
-          <code language="r script">df_ign &lt;- df_ign |&gt;
+</sec>
+</sec>
+<sec id="import-and-mutate-nb-1">
+  <title>Import and mutate</title>
+  <p>Get data, discretize depth:</p>
+  <sec id="nb-code-cell-2-nb-1" specific-use="notebook-code">
+  <code language="r script">df_ign &lt;- read_csv(&quot;../data/lapalma_ign.csv&quot;)</code>
+  <code language="r script">df_ign &lt;- df_ign |&gt;
   mutate(
     Mag = floor(Magnitude),
     Depth = case_when(
-      `Depth(km)` &gt;= 28 ~ "Deep (&gt;28km)",
-      `Depth(km)` &gt;= 18 ~ "Interchange (18km&gt;x&gt;28km)",
-      TRUE ~ "Shallow (&lt; 18km)"
+      `Depth(km)` &gt;= 28 ~ &quot;Deep (&gt;28km)&quot;,
+      `Depth(km)` &gt;= 18 ~ &quot;Interchange (18km&gt;x&gt;28km)&quot;,
+      TRUE ~ &quot;Shallow (&lt; 18km)&quot;
     ))
 df_ign |&gt; 
   select(DateTime, Mag, Magnitude, Depth, `Depth(km)`)</code>
-          <sec id="nb-code-cell-2-output-0-nb-1" specific-use="notebook-output">
-            <preformat>Rows: 11347 Columns: 14
+  <sec id="nb-code-cell-2-output-0-nb-1" specific-use="notebook-output">
+  <preformat>Rows: 11347 Columns: 14
 ── Column specification ────────────────────────────────────────────────────────
-Delimiter: ","
+Delimiter: &quot;,&quot;
 chr  (3): Event, Intensity, Location
 dbl  (8): Latitude, Longitude, Depth(km), Magnitude, Type Mag, Timestamp, Sw...
 dttm (1): DateTime
@@ -897,9 +780,9 @@ time (1): Time
 
 ℹ Use `spec()` to retrieve the full column specification for this data.
 ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</preformat>
-          </sec>
-          <sec id="nb-code-cell-2-output-1-nb-1" specific-use="notebook-output">
-            <preformat># A tibble: 11,347 × 5
+  </sec>
+  <sec id="nb-code-cell-2-output-1-nb-1" specific-use="notebook-output">
+  <preformat># A tibble: 11,347 × 5
    DateTime              Mag Magnitude Depth                     `Depth(km)`
    &lt;dttm&gt;              &lt;dbl&gt;     &lt;dbl&gt; &lt;chr&gt;                           &lt;dbl&gt;
  1 2017-03-09 23:44:06     1       1.6 Interchange (18km&gt;x&gt;28km)        26  
@@ -913,15 +796,15 @@ time (1): Time
  9 2017-10-07 23:06:16     1       1.5 Interchange (18km&gt;x&gt;28km)        24.4
 10 2017-10-08 01:23:02     2       2.6 Interchange (18km&gt;x&gt;28km)        26.3
 # ℹ 11,337 more rows</preformat>
-          </sec>
-        </sec>
-        <p>Time epochs:</p>
-        <sec id="nb-code-cell-3-nb-1" specific-use="notebook-code">
-          <code language="r script">cut_times &lt;- ymd_hms(c("2021-09-11", "2021-09-19 14:13:00", "2021-10-01", "2021-12-01", "2021-12-31", "2022-01-01"), truncated = 3)
+  </sec>
+  </sec>
+  <p>Time epochs:</p>
+  <sec id="nb-code-cell-3-nb-1" specific-use="notebook-code">
+  <code language="r script">cut_times &lt;- ymd_hms(c(&quot;2021-09-11&quot;, &quot;2021-09-19 14:13:00&quot;, &quot;2021-10-01&quot;, &quot;2021-12-01&quot;, &quot;2021-12-31&quot;, &quot;2022-01-01&quot;), truncated = 3)
 epochs &lt;- tibble(
   start = cut_times[-length(cut_times)], 
   end = cut_times[-1], 
-  label = c("pre", "early", "phase1", "phase2", "phase3"),
+  label = c(&quot;pre&quot;, &quot;early&quot;, &quot;phase1&quot;, &quot;phase2&quot;, &quot;phase3&quot;),
   text = c('Pre\nEruptive\nSwarm', 
            'Early Eruptive\nPhase',
            'Main Eruptive Phase\n(sustained gas and lava ejection)', 
@@ -929,42 +812,42 @@ epochs &lt;- tibble(
             NA
   )
 )</code>
-        </sec>
-        <p>Reduce to time around eruption, and add magnitude categories:</p>
-        <sec id="nb-code-cell-4-nb-1" specific-use="notebook-code">
-          <code language="r script">mag_breaks &lt;- c(0, 1, 2, 3, 4, 6)
-mag_labels &lt;- c("0 &lt; M &lt;= 1","1 &lt; M &lt;= 2","2 &lt; M &lt;= 3","3 &lt; M &lt;= 4","M &gt; 4")
+  </sec>
+  <p>Reduce to time around eruption, and add magnitude categories:</p>
+  <sec id="nb-code-cell-4-nb-1" specific-use="notebook-code">
+  <code language="r script">mag_breaks &lt;- c(0, 1, 2, 3, 4, 6)
+mag_labels &lt;- c(&quot;0 &lt; M &lt;= 1&quot;,&quot;1 &lt; M &lt;= 2&quot;,&quot;2 &lt; M &lt;= 3&quot;,&quot;3 &lt; M &lt;= 4&quot;,&quot;M &gt; 4&quot;)
 df_erupt &lt;- df_ign |&gt;
-  filter(Date &lt; as.Date("2022-01-01") &amp; Date &gt; as.Date("2021-09-11")) |&gt;
+  filter(Date &lt; as.Date(&quot;2022-01-01&quot;) &amp; Date &gt; as.Date(&quot;2021-09-11&quot;)) |&gt;
   mutate(Magnitude_categories = cut(Magnitude, 
     breaks = mag_breaks, labels = mag_labels, right = FALSE))</code>
-        </sec>
-        <p>Rough plot:</p>
-        <sec id="nb-code-cell-5-nb-1" specific-use="notebook-code">
-          <code language="r script">df_erupt |&gt;
+  </sec>
+  <p>Rough plot:</p>
+  <sec id="nb-code-cell-5-nb-1" specific-use="notebook-code">
+  <code language="r script">df_erupt |&gt;
   arrange(Magnitude) |&gt; 
   ggplot(aes(DateTime, `Depth(km)`)) + 
   geom_point(aes(color = Magnitude, size = Magnitude), 
     alpha = 0.1) </code>
-          <graphic mimetype="image" mime-subtype="png" xlink:href="main-timeline_files/figure-jats/unnamed-chunk-5-1.png"/>
-        </sec>
-      </sec>
-      <sec id="publication-plot-nb-1">
-        <title>Publication plot</title>
-        <sec id="nb-code-cell-6-nb-1" specific-use="notebook-code">
-          <code language="r script">colors &lt;- c("#1f77b4","#aec7e8","#ff7f0e","#ffbb78","#2ca02c","#98df8a",
-  "#d62728","#ff9896","#9467bd","#c5b0d5","#8c564b","#c49c94","#e377c2",
-  "#f7b6d2","#7f7f7f","#c7c7c7","#bcbd22","#dbdb8d","#17becf","#9edae5")</code>
-        </sec>
-        <sec id="nb-code-cell-7-nb-1" specific-use="notebook-code">
-          <code language="r script">eruption &lt;- ymd_hms("2021-09-19 14:13:00")
-date_axis_breaks &lt;- as.Date("2021-10-15") + months(rep(0:2, each = 2)) - 
+  <graphic mimetype="image" mime-subtype="png" xlink:href="main-timeline_files/figure-jats/unnamed-chunk-5-1.png" />
+  </sec>
+</sec>
+<sec id="publication-plot-nb-1">
+  <title>Publication plot</title>
+  <sec id="nb-code-cell-6-nb-1" specific-use="notebook-code">
+  <code language="r script">colors &lt;- c(&quot;#1f77b4&quot;,&quot;#aec7e8&quot;,&quot;#ff7f0e&quot;,&quot;#ffbb78&quot;,&quot;#2ca02c&quot;,&quot;#98df8a&quot;,
+  &quot;#d62728&quot;,&quot;#ff9896&quot;,&quot;#9467bd&quot;,&quot;#c5b0d5&quot;,&quot;#8c564b&quot;,&quot;#c49c94&quot;,&quot;#e377c2&quot;,
+  &quot;#f7b6d2&quot;,&quot;#7f7f7f&quot;,&quot;#c7c7c7&quot;,&quot;#bcbd22&quot;,&quot;#dbdb8d&quot;,&quot;#17becf&quot;,&quot;#9edae5&quot;)</code>
+  </sec>
+  <sec id="nb-code-cell-7-nb-1" specific-use="notebook-code">
+  <code language="r script">eruption &lt;- ymd_hms(&quot;2021-09-19 14:13:00&quot;)
+date_axis_breaks &lt;- as.Date(&quot;2021-10-15&quot;) + months(rep(0:2, each = 2)) - 
       days(rep(c(14, 0), times = 3))
 date_axis_breaks &lt;- c(eruption, date_axis_breaks[-1])
 
 # Custom Magnitude Scale transform
 trans_mag &lt;- scales::trans_new(
-  name = "Magnitude transformation",
+  name = &quot;Magnitude transformation&quot;,
   transform = \(x) 3*2^(1.3*x),
   inverse = \(x) (1/1.3) * log2(x/3)
 )
@@ -974,450 +857,452 @@ df_erupt |&gt;
   arrange(Magnitude) |&gt; 
   ggplot(aes(DateTime, `Depth(km)`)) + 
   geom_point(aes(fill = Magnitude_categories, size = Magnitude,
-    alpha = Magnitude_categories), shape = 21, color = "black") +
+    alpha = Magnitude_categories), shape = 21, color = &quot;black&quot;) +
   geom_vline(xintercept = eruption, color = colors[7]) +
-  annotate("text", x = eruption, y = 20, label = "ERUPTION", 
+  annotate(&quot;text&quot;, x = eruption, y = 20, label = &quot;ERUPTION&quot;, 
     color = colors[7], angle = 90, hjust = 1, vjust = -0.2, size = 6) +
-  annotate("rect", xmin = epochs$start, xmax = epochs$end,
+  annotate(&quot;rect&quot;, xmin = epochs$start, xmax = epochs$end,
     ymin = -Inf, ymax = Inf, fill = colors[c(1, 3, 5, 7, 7)], alpha = 0.1) + 
-  annotate("text", x =  epochs$start + 0.5*(epochs$end - epochs$start), y = -4, 
+  annotate(&quot;text&quot;, x =  epochs$start + 0.5*(epochs$end - epochs$start), y = -4, 
     label = epochs$text, color = colors[c(1, 3, 5, 7, NA)], size = 7) +
-  scale_y_continuous("Depth (km)", trans = scales::reverse_trans(), 
+  scale_y_continuous(&quot;Depth (km)&quot;, trans = scales::reverse_trans(), 
     breaks = seq(0, 40, 10), limits = c( 45, -5), sec.axis = dup_axis()) +
-  scale_x_datetime("Eruption Timeline", expand = c(0, 0), 
-    date_labels = "%Y-%m-%d", breaks = date_axis_breaks) +
-  scale_fill_manual("Event Magnitude (M)", values = colors[c(13, 17, 5, 3, 7)]) +
-  scale_alpha_manual("Event Magnitude (M)", values = c(0.3, 0.4, 0.5, 0.6, 0.8)) +
-  scale_size("Event Magnitude (M)", breaks = 1:5, labels = mag_labels, 
+  scale_x_datetime(&quot;Eruption Timeline&quot;, expand = c(0, 0), 
+    date_labels = &quot;%Y-%m-%d&quot;, breaks = date_axis_breaks) +
+  scale_fill_manual(&quot;Event Magnitude (M)&quot;, values = colors[c(13, 17, 5, 3, 7)]) +
+  scale_alpha_manual(&quot;Event Magnitude (M)&quot;, values = c(0.3, 0.4, 0.5, 0.6, 0.8)) +
+  scale_size(&quot;Event Magnitude (M)&quot;, breaks = 1:5, labels = mag_labels, 
     trans = trans_mag) +
-  theme_bw(base_size = 20, base_family = "Helvetica") + 
+  theme_bw(base_size = 20, base_family = &quot;Helvetica&quot;) + 
   theme(
     legend.position = c(0.01, 0.01), 
-    legend.justification = c("left", "bottom"),
+    legend.justification = c(&quot;left&quot;, &quot;bottom&quot;),
     panel.grid.major.x = element_blank(),
     panel.grid.minor.x = element_blank(),
     panel.grid.minor.y = element_blank(),
     panel.border = element_blank(),
-    axis.line.x.bottom = element_line(color = "grey50"),
+    axis.line.x.bottom = element_line(color = &quot;grey50&quot;),
     axis.title.y.right = element_blank(),
     plot.title = element_text(hjust = 0.5, margin = margin(t = 20, b = 20))
   ) +
-  labs(title = "Recorded seismicity during the La Palma eruption 11 September - 15 December 2021 (INVOLCAN Dataset)")</code>
-          <fig id="fig-eq-timeline-nb-1">
-            <caption>
-              <p>Figure 1: Earthquakes preceeding and following the 2021
-    eruption.</p>
-            </caption>
-            <graphic mimetype="image" mime-subtype="png" xlink:href="main-timeline_files/figure-jats/fig-eq-timeline-1.png"/>
-          </fig>
-          <sec id="nb-code-cell-7-output-0-nb-1" specific-use="notebook-output">
-            <preformat>Warning: Removed 1 rows containing missing values (`geom_point()`).</preformat>
-          </sec>
-          <sec id="nb-code-cell-7-output-1-nb-1" specific-use="notebook-output">
-            <preformat>Warning: Removed 1 rows containing missing values (`geom_text()`).</preformat>
-          </sec>
-        </sec>
-      </sec>
-    </body>
-    <back>
+  labs(title = &quot;Recorded seismicity during the La Palma eruption 11 September - 15 December 2021 (INVOLCAN Dataset)&quot;)</code>
+  <fig id="fig-eq-timeline-nb-1">
+    <caption><p>Figure 1: Earthquakes preceeding and following the 2021
+    eruption.</p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="main-timeline_files/figure-jats/fig-eq-timeline-1.png" />
+  </fig>
+  <sec id="nb-code-cell-7-output-0-nb-1" specific-use="notebook-output">
+  <preformat>Warning: Removed 1 rows containing missing values (`geom_point()`).</preformat>
+  </sec>
+  <sec id="nb-code-cell-7-output-1-nb-1" specific-use="notebook-output">
+  <preformat>Warning: Removed 1 rows containing missing values (`geom_text()`).</preformat>
+  </sec>
+  </sec>
+</sec>
+</body>
+
+
+
+<back>
 </back>
-  </sub-article>
-  <sub-article article-type="notebook" id="nb-6-nb-2">
-    <front-stub>
-      <title-group>
-        <article-title>Data Screening</article-title>
-      </title-group>
-      <contrib-group>
-        <contrib contrib-type="author">
-          <contrib-id contrib-id-type="orcid">0000-0002-0760-5497</contrib-id>
-          <name>
-            <surname>Purves</surname>
-            <given-names>Steve</given-names>
-          </name>
-          <string-name>Steve Purves</string-name>
-        </contrib>
-      </contrib-group>
-    </front-stub>
-    <body>
-      <sec id="cell-96cd123b-e010-4778-9afa-9ca125ef50cc-nb-2" specific-use="notebook-content">
-        <p>Load and review the data, check that dates are loaded properly and
+
+
+</sub-article>
+<sub-article article-type="notebook" id="nb-6-nb-2">
+<front-stub>
+<title-group>
+<article-title>Data Screening</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-0760-5497</contrib-id>
+<name>
+<surname>Purves</surname>
+<given-names>Steve</given-names>
+</name>
+<string-name>Steve Purves</string-name>
+</contrib>
+</contrib-group>
+</front-stub>
+
+<body>
+<sec id="cell-96cd123b-e010-4778-9afa-9ca125ef50cc-nb-2" specific-use="notebook-content">
+<p>Load and review the data, check that dates are loaded properly and
 filter data down to the events in La Palma only. The dataset itself
 contains all recent IGN earthquake data for Spanish territory.</p>
-      </sec>
-      <sec id="cell-0e75ded9-f2dc-40ca-884b-d124d0e37ee4-nb-2" specific-use="notebook-code">
-        <code language="python">import pandas as pd
+</sec>
+<sec id="cell-0e75ded9-f2dc-40ca-884b-d124d0e37ee4-nb-2" specific-use="notebook-code">
+<code language="python">import pandas as pd
 import matplotlib.pyplot as plt</code>
-      </sec>
-      <sec id="ba38c3c1-51d7-48d9-8056-c23a0bbfcd18-nb-2" specific-use="notebook-code">
-        <code language="python">df = pd.read_csv('../data/catalogoComunSV_1663233588717.csv', sep=';')
+</sec>
+<sec id="ba38c3c1-51d7-48d9-8056-c23a0bbfcd18-nb-2" specific-use="notebook-code">
+<code language="python">df = pd.read_csv('../data/catalogoComunSV_1663233588717.csv', sep=';')
 df.columns = ['Event', 'Date', 'Time', 'Latitude', 'Longitude', 'Depth(km)', 'Intensity','Magnitude', 'Type Mag', 'Location']
 df['Time'] = df['Time'].str.strip()
 df['Date'] = df['Date'].str.strip()
 df['DateTime'] = (df['Date'] + ' ' + df['Time']).apply(pd.to_datetime, format='%d/%m/%Y %H:%M:%S')
 df['Timestamp'] = pd.to_numeric(pd.to_datetime(df['DateTime']))
-df['Date'] = pd.to_datetime(df['Date'], format="%d/%m/%Y")
+df['Date'] = pd.to_datetime(df['Date'], format=&quot;%d/%m/%Y&quot;)
 df = df.sort_values(by=['DateTime'], ascending=True)
 df.head()</code>
-        <sec id="ba38c3c1-51d7-48d9-8056-c23a0bbfcd18-output-0-nb-2" specific-use="notebook-output">
-          <table-wrap>
-            <table border="1">
-              <thead>
-                <tr style="text-align: right;">
-                  <th/>
-                  <th>Event</th>
-                  <th>Date</th>
-                  <th>Time</th>
-                  <th>Latitude</th>
-                  <th>Longitude</th>
-                  <th>Depth(km)</th>
-                  <th>Intensity</th>
-                  <th>Magnitude</th>
-                  <th>Type Mag</th>
-                  <th>Location</th>
-                  <th>DateTime</th>
-                  <th>Timestamp</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>0</td>
-                  <td>es2017aaaga</td>
-                  <td>2017-01-01</td>
-                  <td>00:48:55</td>
-                  <td>36.6765</td>
-                  <td>-11.2736</td>
-                  <td>0.0</td>
-                  <td/>
-                  <td>2.8</td>
-                  <td>6</td>
-                  <td>SW CABO DE SAN VICENTE</td>
-                  <td>2017-01-01 00:48:55</td>
-                  <td>1483231735000000000</td>
-                </tr>
-                <tr>
-                  <td>1</td>
-                  <td>es2017aaakn</td>
-                  <td>2017-01-01</td>
-                  <td>01:28:17</td>
-                  <td>28.1119</td>
-                  <td>-16.2225</td>
-                  <td>21.0</td>
-                  <td/>
-                  <td>0.9</td>
-                  <td>4</td>
-                  <td>ATLÁNTICO-CANARIAS</td>
-                  <td>2017-01-01 01:28:17</td>
-                  <td>1483234097000000000</td>
-                </tr>
-                <tr>
-                  <td>2</td>
-                  <td>es2017aaang</td>
-                  <td>2017-01-01</td>
-                  <td>01:49:08</td>
-                  <td>42.0648</td>
-                  <td>-7.8471</td>
-                  <td>22.0</td>
-                  <td/>
-                  <td>2.0</td>
-                  <td>4</td>
-                  <td>SW RAIRIZ DE VEIGA.OU</td>
-                  <td>2017-01-01 01:49:08</td>
-                  <td>1483235348000000000</td>
-                </tr>
-                <tr>
-                  <td>3</td>
-                  <td>es2017aabdd</td>
-                  <td>2017-01-01</td>
-                  <td>02:36:20</td>
-                  <td>38.3826</td>
-                  <td>-9.3767</td>
-                  <td>11.0</td>
-                  <td/>
-                  <td>2.2</td>
-                  <td>4</td>
-                  <td>ATLÁNTICO-PORTUGAL</td>
-                  <td>2017-01-01 02:36:20</td>
-                  <td>1483238180000000000</td>
-                </tr>
-                <tr>
-                  <td>4</td>
-                  <td>es2017aabkh</td>
-                  <td>2017-01-01</td>
-                  <td>03:35:03</td>
-                  <td>36.2492</td>
-                  <td>-7.8227</td>
-                  <td>13.0</td>
-                  <td/>
-                  <td>1.9</td>
-                  <td>4</td>
-                  <td>GOLFO DE CÁDIZ</td>
-                  <td>2017-01-01 03:35:03</td>
-                  <td>1483241703000000000</td>
-                </tr>
-              </tbody>
-            </table>
-          </table-wrap>
-        </sec>
-      </sec>
-      <sec id="d81abbcf-d7f2-43e8-ae0c-5f6ce44e6046-nb-2" specific-use="notebook-code">
-        <code language="python">df.describe()</code>
-        <sec id="d81abbcf-d7f2-43e8-ae0c-5f6ce44e6046-output-0-nb-2" specific-use="notebook-output">
-          <table-wrap>
-            <table border="1">
-              <thead>
-                <tr style="text-align: right;">
-                  <th/>
-                  <th>Latitude</th>
-                  <th>Longitude</th>
-                  <th>Depth(km)</th>
-                  <th>Magnitude</th>
-                  <th>Type Mag</th>
-                  <th>Timestamp</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>count</td>
-                  <td>58036.000000</td>
-                  <td>58036.000000</td>
-                  <td>58036.000000</td>
-                  <td>58036.000000</td>
-                  <td>58036.000000</td>
-                  <td>5.803600e+04</td>
-                </tr>
-                <tr>
-                  <td>mean</td>
-                  <td>34.806854</td>
-                  <td>-8.356855</td>
-                  <td>11.450831</td>
-                  <td>1.881846</td>
-                  <td>4.031153</td>
-                  <td>1.596182e+18</td>
-                </tr>
-                <tr>
-                  <td>std</td>
-                  <td>5.263327</td>
-                  <td>7.119341</td>
-                  <td>11.111965</td>
-                  <td>0.763577</td>
-                  <td>0.291332</td>
-                  <td>4.954865e+16</td>
-                </tr>
-                <tr>
-                  <td>min</td>
-                  <td>26.349300</td>
-                  <td>-19.930400</td>
-                  <td>0.000000</td>
-                  <td>-0.500000</td>
-                  <td>3.000000</td>
-                  <td>1.483232e+18</td>
-                </tr>
-                <tr>
-                  <td>25%</td>
-                  <td>28.563800</td>
-                  <td>-16.672325</td>
-                  <td>3.000000</td>
-                  <td>1.400000</td>
-                  <td>4.000000</td>
-                  <td>1.559327e+18</td>
-                </tr>
-                <tr>
-                  <td>50%</td>
-                  <td>35.989200</td>
-                  <td>-4.785250</td>
-                  <td>10.000000</td>
-                  <td>1.800000</td>
-                  <td>4.000000</td>
-                  <td>1.612319e+18</td>
-                </tr>
-                <tr>
-                  <td>75%</td>
-                  <td>37.890700</td>
-                  <td>-3.234500</td>
-                  <td>14.300000</td>
-                  <td>2.400000</td>
-                  <td>4.000000</td>
-                  <td>1.635568e+18</td>
-                </tr>
-                <tr>
-                  <td>max</td>
-                  <td>44.985000</td>
-                  <td>5.996600</td>
-                  <td>115.000000</td>
-                  <td>6.000000</td>
-                  <td>6.000000</td>
-                  <td>1.663232e+18</td>
-                </tr>
-              </tbody>
-            </table>
-          </table-wrap>
-        </sec>
-      </sec>
-      <sec id="cell-8f6c52f4-b28d-4c22-88c7-e1b17298cae7-nb-2" specific-use="notebook-code">
-        <code language="python">df.plot.scatter(x="Longitude", y="Latitude", figsize=(12,12), grid="on");</code>
-        <sec id="cell-8f6c52f4-b28d-4c22-88c7-e1b17298cae7-output-0-nb-2" specific-use="notebook-output">
-          <graphic mimetype="image" mime-subtype="png" xlink:href="data-screening_files/figure-jats/cell-5-output-1.png"/>
-        </sec>
-      </sec>
-      <sec id="af76febd-11cd-4927-8476-5d8258ede326-nb-2" specific-use="notebook-content">
-        <sec id="filter-down-to-la-palma-events-only-nb-2">
-          <title>Filter down to La Palma events only</title>
-          <p>Also some rows seem to be missing depth measurements, (see
+<sec id="ba38c3c1-51d7-48d9-8056-c23a0bbfcd18-output-0-nb-2" specific-use="notebook-output">
+<table-wrap>
+  <table border="1">
+    <thead>
+      <tr style="text-align: right;">
+        <th></th>
+        <th>Event</th>
+        <th>Date</th>
+        <th>Time</th>
+        <th>Latitude</th>
+        <th>Longitude</th>
+        <th>Depth(km)</th>
+        <th>Intensity</th>
+        <th>Magnitude</th>
+        <th>Type Mag</th>
+        <th>Location</th>
+        <th>DateTime</th>
+        <th>Timestamp</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>0</td>
+        <td>es2017aaaga</td>
+        <td>2017-01-01</td>
+        <td>00:48:55</td>
+        <td>36.6765</td>
+        <td>-11.2736</td>
+        <td>0.0</td>
+        <td></td>
+        <td>2.8</td>
+        <td>6</td>
+        <td>SW CABO DE SAN VICENTE</td>
+        <td>2017-01-01 00:48:55</td>
+        <td>1483231735000000000</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>es2017aaakn</td>
+        <td>2017-01-01</td>
+        <td>01:28:17</td>
+        <td>28.1119</td>
+        <td>-16.2225</td>
+        <td>21.0</td>
+        <td></td>
+        <td>0.9</td>
+        <td>4</td>
+        <td>ATLÁNTICO-CANARIAS</td>
+        <td>2017-01-01 01:28:17</td>
+        <td>1483234097000000000</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>es2017aaang</td>
+        <td>2017-01-01</td>
+        <td>01:49:08</td>
+        <td>42.0648</td>
+        <td>-7.8471</td>
+        <td>22.0</td>
+        <td></td>
+        <td>2.0</td>
+        <td>4</td>
+        <td>SW RAIRIZ DE VEIGA.OU</td>
+        <td>2017-01-01 01:49:08</td>
+        <td>1483235348000000000</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>es2017aabdd</td>
+        <td>2017-01-01</td>
+        <td>02:36:20</td>
+        <td>38.3826</td>
+        <td>-9.3767</td>
+        <td>11.0</td>
+        <td></td>
+        <td>2.2</td>
+        <td>4</td>
+        <td>ATLÁNTICO-PORTUGAL</td>
+        <td>2017-01-01 02:36:20</td>
+        <td>1483238180000000000</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>es2017aabkh</td>
+        <td>2017-01-01</td>
+        <td>03:35:03</td>
+        <td>36.2492</td>
+        <td>-7.8227</td>
+        <td>13.0</td>
+        <td></td>
+        <td>1.9</td>
+        <td>4</td>
+        <td>GOLFO DE CÁDIZ</td>
+        <td>2017-01-01 03:35:03</td>
+        <td>1483241703000000000</td>
+      </tr>
+    </tbody>
+  </table>
+</table-wrap>
+</sec>
+</sec>
+<sec id="d81abbcf-d7f2-43e8-ae0c-5f6ce44e6046-nb-2" specific-use="notebook-code">
+<code language="python">df.describe()</code>
+<sec id="d81abbcf-d7f2-43e8-ae0c-5f6ce44e6046-output-0-nb-2" specific-use="notebook-output">
+<table-wrap>
+  <table border="1">
+    <thead>
+      <tr style="text-align: right;">
+        <th></th>
+        <th>Latitude</th>
+        <th>Longitude</th>
+        <th>Depth(km)</th>
+        <th>Magnitude</th>
+        <th>Type Mag</th>
+        <th>Timestamp</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>count</td>
+        <td>58036.000000</td>
+        <td>58036.000000</td>
+        <td>58036.000000</td>
+        <td>58036.000000</td>
+        <td>58036.000000</td>
+        <td>5.803600e+04</td>
+      </tr>
+      <tr>
+        <td>mean</td>
+        <td>34.806854</td>
+        <td>-8.356855</td>
+        <td>11.450831</td>
+        <td>1.881846</td>
+        <td>4.031153</td>
+        <td>1.596182e+18</td>
+      </tr>
+      <tr>
+        <td>std</td>
+        <td>5.263327</td>
+        <td>7.119341</td>
+        <td>11.111965</td>
+        <td>0.763577</td>
+        <td>0.291332</td>
+        <td>4.954865e+16</td>
+      </tr>
+      <tr>
+        <td>min</td>
+        <td>26.349300</td>
+        <td>-19.930400</td>
+        <td>0.000000</td>
+        <td>-0.500000</td>
+        <td>3.000000</td>
+        <td>1.483232e+18</td>
+      </tr>
+      <tr>
+        <td>25%</td>
+        <td>28.563800</td>
+        <td>-16.672325</td>
+        <td>3.000000</td>
+        <td>1.400000</td>
+        <td>4.000000</td>
+        <td>1.559327e+18</td>
+      </tr>
+      <tr>
+        <td>50%</td>
+        <td>35.989200</td>
+        <td>-4.785250</td>
+        <td>10.000000</td>
+        <td>1.800000</td>
+        <td>4.000000</td>
+        <td>1.612319e+18</td>
+      </tr>
+      <tr>
+        <td>75%</td>
+        <td>37.890700</td>
+        <td>-3.234500</td>
+        <td>14.300000</td>
+        <td>2.400000</td>
+        <td>4.000000</td>
+        <td>1.635568e+18</td>
+      </tr>
+      <tr>
+        <td>max</td>
+        <td>44.985000</td>
+        <td>5.996600</td>
+        <td>115.000000</td>
+        <td>6.000000</td>
+        <td>6.000000</td>
+        <td>1.663232e+18</td>
+      </tr>
+    </tbody>
+  </table>
+</table-wrap>
+</sec>
+</sec>
+<sec id="cell-8f6c52f4-b28d-4c22-88c7-e1b17298cae7-nb-2" specific-use="notebook-code">
+<code language="python">df.plot.scatter(x=&quot;Longitude&quot;, y=&quot;Latitude&quot;, figsize=(12,12), grid=&quot;on&quot;);</code>
+<sec id="cell-8f6c52f4-b28d-4c22-88c7-e1b17298cae7-output-0-nb-2" specific-use="notebook-output">
+<graphic mimetype="image" mime-subtype="png" xlink:href="data-screening_files/figure-jats/cell-5-output-1.png" />
+</sec>
+</sec>
+<sec id="af76febd-11cd-4927-8476-5d8258ede326-nb-2" specific-use="notebook-content">
+<sec id="filter-down-to-la-palma-events-only-nb-2">
+  <title>Filter down to La Palma events only</title>
+  <p>Also some rows seem to be missing depth measurements, (see
   differences in the <bold>count</bold> for columns above) - take only
   rows with valid depths</p>
-        </sec>
-        <sec id="c34e47c1-c9cb-4207-978c-292333863e9b-nb-2" specific-use="notebook-code">
-          <code language="python">df = df[(df['Latitude'] &lt; 28.7) &amp; (df['Latitude'] &gt; 28.3) &amp; (df['Longitude'] &lt; -17.7) &amp; (df['Longitude'] &gt; -18)]
+  </sec>
+  <sec id="c34e47c1-c9cb-4207-978c-292333863e9b-nb-2" specific-use="notebook-code">
+  <code language="python">df = df[(df['Latitude'] &lt; 28.7) &amp; (df['Latitude'] &gt; 28.3) &amp; (df['Longitude'] &lt; -17.7) &amp; (df['Longitude'] &gt; -18)]
 df = df[df['Depth(km)'].notna()]
 df.describe()</code>
-          <sec id="c34e47c1-c9cb-4207-978c-292333863e9b-output-0-nb-2" specific-use="notebook-output">
-            <table-wrap>
-              <table border="1">
-                <thead>
-                  <tr style="text-align: right;">
-                    <th/>
-                    <th>Latitude</th>
-                    <th>Longitude</th>
-                    <th>Depth(km)</th>
-                    <th>Magnitude</th>
-                    <th>Type Mag</th>
-                    <th>Timestamp</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>count</td>
-                    <td>11347.000000</td>
-                    <td>11347.000000</td>
-                    <td>11347.000000</td>
-                    <td>11347.000000</td>
-                    <td>11347.0</td>
-                    <td>1.134700e+04</td>
-                  </tr>
-                  <tr>
-                    <td>mean</td>
-                    <td>28.568893</td>
-                    <td>-17.844062</td>
-                    <td>14.089345</td>
-                    <td>2.432423</td>
-                    <td>4.0</td>
-                    <td>1.633359e+18</td>
-                  </tr>
-                  <tr>
-                    <td>std</td>
-                    <td>0.021899</td>
-                    <td>0.027345</td>
-                    <td>8.624787</td>
-                    <td>0.705282</td>
-                    <td>0.0</td>
-                    <td>2.007970e+16</td>
-                  </tr>
-                  <tr>
-                    <td>min</td>
-                    <td>28.310200</td>
-                    <td>-17.995800</td>
-                    <td>0.000000</td>
-                    <td>0.200000</td>
-                    <td>4.0</td>
-                    <td>1.489103e+18</td>
-                  </tr>
-                  <tr>
-                    <td>25%</td>
-                    <td>28.558000</td>
-                    <td>-17.854100</td>
-                    <td>10.100000</td>
-                    <td>1.900000</td>
-                    <td>4.0</td>
-                    <td>1.633777e+18</td>
-                  </tr>
-                  <tr>
-                    <td>50%</td>
-                    <td>28.564000</td>
-                    <td>-17.838700</td>
-                    <td>11.300000</td>
-                    <td>2.600000</td>
-                    <td>4.0</td>
-                    <td>1.635671e+18</td>
-                  </tr>
-                  <tr>
-                    <td>75%</td>
-                    <td>28.574300</td>
-                    <td>-17.829700</td>
-                    <td>13.900000</td>
-                    <td>2.900000</td>
-                    <td>4.0</td>
-                    <td>1.638294e+18</td>
-                  </tr>
-                  <tr>
-                    <td>max</td>
-                    <td>28.697800</td>
-                    <td>-17.705700</td>
-                    <td>46.900000</td>
-                    <td>5.100000</td>
-                    <td>4.0</td>
-                    <td>1.663128e+18</td>
-                  </tr>
-                </tbody>
-              </table>
-            </table-wrap>
-          </sec>
-        </sec>
-        <sec id="cell-306ba432-daa7-4126-9b5a-689e1ad41e3a-nb-2" specific-use="notebook-code">
-          <code language="python">plt.figure(figsize=(20,6))
+  <sec id="c34e47c1-c9cb-4207-978c-292333863e9b-output-0-nb-2" specific-use="notebook-output">
+  <table-wrap>
+    <table border="1">
+      <thead>
+        <tr style="text-align: right;">
+          <th></th>
+          <th>Latitude</th>
+          <th>Longitude</th>
+          <th>Depth(km)</th>
+          <th>Magnitude</th>
+          <th>Type Mag</th>
+          <th>Timestamp</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>count</td>
+          <td>11347.000000</td>
+          <td>11347.000000</td>
+          <td>11347.000000</td>
+          <td>11347.000000</td>
+          <td>11347.0</td>
+          <td>1.134700e+04</td>
+        </tr>
+        <tr>
+          <td>mean</td>
+          <td>28.568893</td>
+          <td>-17.844062</td>
+          <td>14.089345</td>
+          <td>2.432423</td>
+          <td>4.0</td>
+          <td>1.633359e+18</td>
+        </tr>
+        <tr>
+          <td>std</td>
+          <td>0.021899</td>
+          <td>0.027345</td>
+          <td>8.624787</td>
+          <td>0.705282</td>
+          <td>0.0</td>
+          <td>2.007970e+16</td>
+        </tr>
+        <tr>
+          <td>min</td>
+          <td>28.310200</td>
+          <td>-17.995800</td>
+          <td>0.000000</td>
+          <td>0.200000</td>
+          <td>4.0</td>
+          <td>1.489103e+18</td>
+        </tr>
+        <tr>
+          <td>25%</td>
+          <td>28.558000</td>
+          <td>-17.854100</td>
+          <td>10.100000</td>
+          <td>1.900000</td>
+          <td>4.0</td>
+          <td>1.633777e+18</td>
+        </tr>
+        <tr>
+          <td>50%</td>
+          <td>28.564000</td>
+          <td>-17.838700</td>
+          <td>11.300000</td>
+          <td>2.600000</td>
+          <td>4.0</td>
+          <td>1.635671e+18</td>
+        </tr>
+        <tr>
+          <td>75%</td>
+          <td>28.574300</td>
+          <td>-17.829700</td>
+          <td>13.900000</td>
+          <td>2.900000</td>
+          <td>4.0</td>
+          <td>1.638294e+18</td>
+        </tr>
+        <tr>
+          <td>max</td>
+          <td>28.697800</td>
+          <td>-17.705700</td>
+          <td>46.900000</td>
+          <td>5.100000</td>
+          <td>4.0</td>
+          <td>1.663128e+18</td>
+        </tr>
+      </tbody>
+    </table>
+  </table-wrap>
+  </sec>
+  </sec>
+  <sec id="cell-306ba432-daa7-4126-9b5a-689e1ad41e3a-nb-2" specific-use="notebook-code">
+  <code language="python">plt.figure(figsize=(20,6))
 plt.subplot(1,3,1)
-df["Latitude"].plot.hist(bins=20, density=True)
-df["Latitude"].plot.kde()
+df[&quot;Latitude&quot;].plot.hist(bins=20, density=True)
+df[&quot;Latitude&quot;].plot.kde()
 plt.subplot(1,3,2)
-df["Longitude"].plot.hist(bins=20, density=True)
-df["Longitude"].plot.kde()
+df[&quot;Longitude&quot;].plot.hist(bins=20, density=True)
+df[&quot;Longitude&quot;].plot.kde()
 plt.subplot(1,3,3)
-df["Depth(km)"].plot.hist(bins=50, density=True)
-_=df["Depth(km)"].plot.kde()</code>
-          <sec id="cell-306ba432-daa7-4126-9b5a-689e1ad41e3a-output-0-nb-2" specific-use="notebook-output">
-            <graphic mimetype="image" mime-subtype="png" xlink:href="data-screening_files/figure-jats/cell-7-output-1.png"/>
-          </sec>
-        </sec>
-        <sec id="cell-1bf2e599-12d6-40e9-bd99-db68ae6e72f5-nb-2" specific-use="notebook-content">
+df[&quot;Depth(km)&quot;].plot.hist(bins=50, density=True)
+_=df[&quot;Depth(km)&quot;].plot.kde()</code>
+  <sec id="cell-306ba432-daa7-4126-9b5a-689e1ad41e3a-output-0-nb-2" specific-use="notebook-output">
+  <graphic mimetype="image" mime-subtype="png" xlink:href="data-screening_files/figure-jats/cell-7-output-1.png" />
+  </sec>
+  </sec>
+  <sec id="cell-1bf2e599-12d6-40e9-bd99-db68ae6e72f5-nb-2" specific-use="notebook-content">
 </sec>
-        <sec id="spatial-plot-nb-2">
-          <title>Spatial Plot</title>
-          <p>Scatter plot the spatial locations of events</p>
-        </sec>
-        <sec id="cell-fig-spatial-plot-nb-2" specific-use="notebook-code">
-          <code language="python">from matplotlib import colormaps
+<sec id="spatial-plot-nb-2">
+  <title>Spatial Plot</title>
+  <p>Scatter plot the spatial locations of events</p>
+  </sec>
+  <sec id="cell-fig-spatial-plot-nb-2" specific-use="notebook-code">
+  <code language="python">from matplotlib import colormaps
 cmap = colormaps['viridis_r']
-ax = df.plot.scatter(x="Longitude", y="Latitude", 
-                     s=40-df["Depth(km)"], c=df["Magnitude"], 
-                     figsize=(12,10), grid="on", cmap=cmap)
+ax = df.plot.scatter(x=&quot;Longitude&quot;, y=&quot;Latitude&quot;, 
+                     s=40-df[&quot;Depth(km)&quot;], c=df[&quot;Magnitude&quot;], 
+                     figsize=(12,10), grid=&quot;on&quot;, cmap=cmap)
 colorbar = ax.collections[0].colorbar
-colorbar.set_label("Magnitude")
+colorbar.set_label(&quot;Magnitude&quot;)
 
 plt.show()</code>
-          <sec id="cell-fig-spatial-plot-output-0-nb-2" specific-use="notebook-output">
-            <fig id="fig-spatial-plot-nb-2">
-              <caption>
-                <p>Figure 1: Locations of earthquakes on La Palma since
-    2017.</p>
-              </caption>
-              <graphic mimetype="image" mime-subtype="png" xlink:href="data-screening_files/figure-jats/fig-spatial-plot-output-1.png"/>
-            </fig>
-          </sec>
-        </sec>
-        <sec id="c55cd6b8-7e01-4c2d-aa71-1649ca8aee01-nb-2" specific-use="notebook-content">
-          <sec id="timeline-plot-nb-2">
-            <title>Timeline Plot</title>
-            <p>Scatter plot the event time series and look for any quantization
+  <sec id="cell-fig-spatial-plot-output-0-nb-2" specific-use="notebook-output">
+  <fig id="fig-spatial-plot-nb-2">
+    <caption><p>Figure 1: Locations of earthquakes on La Palma since
+    2017.</p></caption>
+    <graphic mimetype="image" mime-subtype="png" xlink:href="data-screening_files/figure-jats/fig-spatial-plot-output-1.png" />
+  </fig>
+  </sec>
+  </sec>
+  <sec id="c55cd6b8-7e01-4c2d-aa71-1649ca8aee01-nb-2" specific-use="notebook-content">
+  <sec id="timeline-plot-nb-2">
+    <title>Timeline Plot</title>
+    <p>Scatter plot the event time series and look for any quantization
     issues. Have times &amp; dates been loaded correctly?</p>
-          </sec>
-          <sec id="cell-58a022c7-f34c-499d-a749-aa01f0e1b5db-nb-2" specific-use="notebook-code">
-            <code language="python">ax = df.plot.scatter(x='DateTime', y='Depth(km)', figsize=(20,8))
+    </sec>
+    <sec id="cell-58a022c7-f34c-499d-a749-aa01f0e1b5db-nb-2" specific-use="notebook-code">
+    <code language="python">ax = df.plot.scatter(x='DateTime', y='Depth(km)', figsize=(20,8))
 ax.set_ylim(50,0);</code>
-            <sec id="cell-58a022c7-f34c-499d-a749-aa01f0e1b5db-output-0-nb-2" specific-use="notebook-output">
-              <graphic mimetype="image" mime-subtype="png" xlink:href="data-screening_files/figure-jats/cell-9-output-1.png"/>
-            </sec>
-          </sec>
-          <sec id="f0a0d350-ed14-4128-9efe-cfcf2d05a66b-nb-2" specific-use="notebook-code">
-            <code language="python">df['Swarm'] = 0
+    <sec id="cell-58a022c7-f34c-499d-a749-aa01f0e1b5db-output-0-nb-2" specific-use="notebook-output">
+    <graphic mimetype="image" mime-subtype="png" xlink:href="data-screening_files/figure-jats/cell-9-output-1.png" />
+    </sec>
+    </sec>
+    <sec id="f0a0d350-ed14-4128-9efe-cfcf2d05a66b-nb-2" specific-use="notebook-code">
+    <code language="python">df['Swarm'] = 0
 df.loc[(df['Date'] &gt;= '2017-10-01') &amp; (df['Date'] &lt;= '2017-10-31'), 'Swarm'] = 1
 df.loc[(df['Date'] &gt;= '2019-02-01') &amp; (df['Date'] &lt;= '2019-02-28'), 'Swarm'] = 2
 df.loc[(df['Date'] &gt;= '2020-07-21') &amp; (df['Date'] &lt;= '2020-08-05'), 'Swarm'] = 3
@@ -1436,14 +1321,20 @@ df.loc[(df['Date'] &gt;= '2021-09-11') &amp; (df['Date'] &lt;= '2021-09-30'), 'P
 df.loc[(df['Date'] &gt;= '2021-10-01') &amp; (df['Date'] &lt;= '2021-11-30'), 'Phase'] = 2
 df.loc[(df['Date'] &gt;= '2021-12-01') &amp; (df['Date'] &lt;= '2021-12-31'), 'Phase'] = 3
 df.loc[(df['Date'] &gt;= '2021-12-31'), 'Phase'] = 4</code>
-          </sec>
-          <sec id="abd100da-cf39-47e4-8287-de4e9f5e3f6d-nb-2" specific-use="notebook-code">
-            <code language="python">df.to_csv("../data/lapalma_ign.csv", index=False)</code>
-          </sec>
-        </sec>
-      </sec>
-    </body>
-    <back>
+    </sec>
+    <sec id="abd100da-cf39-47e4-8287-de4e9f5e3f6d-nb-2" specific-use="notebook-code">
+    <code language="python">df.to_csv(&quot;../data/lapalma_ign.csv&quot;, index=False)</code>
+    </sec>
+  </sec>
+</sec>
+</body>
+
+
+
+<back>
 </back>
-  </sub-article>
+
+
+</sub-article>
+
 </article>
