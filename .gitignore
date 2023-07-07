@@ -1,12 +1,3 @@
-.ipynb_checkpoints
-*.eps
-_build
-
-la-palma-visualization.pdf
-la-palma-visualization.xml
-files/
-/.luarc.json
-
 /.quarto/
 /agujournal2019.cls
 /trackchanges.sty
