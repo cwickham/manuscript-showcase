@@ -2,8 +2,13 @@ project:
   type: manuscript
 
 execute:
-  freeze: true
+  freeze: auto
   
+manuscript:
+  notebooks:
+    - notebook: notebooks/main-timeline.qmd
+      title: Timeline Figure
+
 format:
   html:
     toc: true
